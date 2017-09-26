@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Salem","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.02,37.307],[-80.031,37.263],[-80.119,37.285]]]]}}]}

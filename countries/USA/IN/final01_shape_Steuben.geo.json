@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Steuben","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.823,41.76],[-84.807,41.694],[-84.807,41.53],[-84.917,41.53],[-85.196,41.524],[-85.196,41.76]]]]}}]}

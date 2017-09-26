@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ozaukee","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.923,43.545],[-87.792,43.545],[-87.912,43.249],[-87.891,43.195],[-87.973,43.195],[-88.066,43.195],[-88.038,43.54]]]]}}]}

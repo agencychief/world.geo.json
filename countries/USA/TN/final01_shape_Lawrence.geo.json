@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lawrence","state":"TN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.436,35.456],[-87.206,35.434],[-87.222,35.001],[-87.606,35.001],[-87.573,35.05],[-87.573,35.401],[-87.447,35.423]]]]}}]}

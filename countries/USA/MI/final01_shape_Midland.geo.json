@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Midland","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.369,43.83],[-84.166,43.825],[-84.166,43.567],[-84.172,43.48],[-84.369,43.468],[-84.61,43.468],[-84.604,43.814]]]]}}]}

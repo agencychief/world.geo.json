@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Grant","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.448,40.653],[-85.448,40.566],[-85.442,40.38],[-85.672,40.38],[-85.864,40.38],[-85.864,40.566],[-85.864,40.653],[-85.639,40.653]]]]}}]}

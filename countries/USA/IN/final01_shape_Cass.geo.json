@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cass","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.582,40.911],[-86.171,40.911],[-86.165,40.56],[-86.373,40.56],[-86.373,40.692],[-86.527,40.692],[-86.527,40.736],[-86.582,40.736]]]]}}]}

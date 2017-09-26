@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Morgan","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-104.091,40.522],[-103.582,40.522],[-103.467,40.522],[-103.467,40.434],[-103.472,40.002],[-103.796,40.002],[-104.152,40.002],[-104.146,40.522]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Edmonson","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.467,37.323],[-86.16,37.334],[-86.05,37.214],[-86.056,37.165],[-86.072,37.055],[-86.22,37.104],[-86.28,37.082],[-86.401,37.17]]]]}}]}

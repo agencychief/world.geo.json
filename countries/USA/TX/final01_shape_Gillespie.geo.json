@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Gillespie","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.305,30.499],[-98.593,30.499],[-98.587,30.138],[-98.921,30.138],[-99.299,30.132],[-99.305,30.285]]]]}}]}

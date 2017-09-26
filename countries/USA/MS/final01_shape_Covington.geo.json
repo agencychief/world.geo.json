@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Covington","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.402,31.797],[-89.397,31.436],[-89.451,31.436],[-89.588,31.436],[-89.605,31.54],[-89.758,31.611],[-89.753,31.775],[-89.654,31.781]]]]}}]}

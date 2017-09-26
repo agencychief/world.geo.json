@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"McDonald","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.54,36.765],[-94.069,36.748],[-94.079,36.496],[-94.474,36.502],[-94.616,36.502],[-94.616,36.765]]]]}}]}

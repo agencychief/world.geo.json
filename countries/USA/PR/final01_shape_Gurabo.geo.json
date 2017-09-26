@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Gurabo","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-65.983,18.313],[-65.945,18.291],[-65.917,18.269],[-65.966,18.231],[-65.999,18.209],[-66.021,18.308]]]]}}]}

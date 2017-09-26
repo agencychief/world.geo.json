@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Alcorn","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.471,34.996],[-88.362,34.996],[-88.367,34.755],[-88.718,34.755],[-88.75,34.755],[-88.75,34.859],[-88.822,34.859],[-88.822,34.996],[-88.789,34.996]]]]}}]}

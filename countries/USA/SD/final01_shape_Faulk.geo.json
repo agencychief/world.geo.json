@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Faulk","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.573,45.243],[-98.724,45.243],[-98.719,45.243],[-98.719,44.898],[-99.573,44.898]]]]}}]}

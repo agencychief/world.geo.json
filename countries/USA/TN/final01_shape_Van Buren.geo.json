@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Van Buren","state":"TN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.421,35.817],[-85.36,35.795],[-85.267,35.823],[-85.273,35.79],[-85.256,35.768],[-85.426,35.565],[-85.557,35.532],[-85.596,35.62],[-85.601,35.795]]]]}}]}

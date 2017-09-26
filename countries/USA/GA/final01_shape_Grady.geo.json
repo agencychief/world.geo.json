@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Grady","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.27,31.08],[-84.117,31.08],[-84.117,30.97],[-84.073,30.91],[-84.084,30.674],[-84.281,30.685],[-84.38,30.691],[-84.374,31.08]]]]}}]}

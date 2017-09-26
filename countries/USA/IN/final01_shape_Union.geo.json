@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Union","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.813,39.728],[-84.813,39.569],[-84.818,39.52],[-85.037,39.525],[-85.037,39.717]]]]}}]}

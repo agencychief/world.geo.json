@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Zavala","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.414,29.092],[-99.409,28.642],[-99.781,28.642],[-100.115,28.648],[-100.11,29.086]]]]}}]}

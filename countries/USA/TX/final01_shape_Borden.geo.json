@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Borden","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.172,32.964],[-101.172,32.526],[-101.172,32.526],[-101.687,32.526],[-101.692,32.964],[-101.555,32.964]]]]}}]}

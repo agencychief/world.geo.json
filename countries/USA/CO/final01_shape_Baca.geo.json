@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Baca","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.749,37.641],[-102.043,37.647],[-102.043,37.389],[-102.043,36.995],[-103.001,37],[-103.084,37],[-103.078,37.641]]]]}}]}

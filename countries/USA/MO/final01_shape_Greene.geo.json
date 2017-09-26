@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Greene","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.619,37.428],[-93.072,37.416],[-93.066,37.088],[-93.483,37.099],[-93.609,37.099],[-93.603,37.28],[-93.625,37.28]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"ND"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Traill","state":"ND"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.475,47.669],[-96.889,47.675],[-96.851,47.598],[-96.851,47.5],[-96.834,47.237],[-97.453,47.237]]]]}}]}

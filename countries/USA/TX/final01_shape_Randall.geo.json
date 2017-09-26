@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Randall","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.988,35.182],[-101.621,35.182],[-101.627,34.749],[-102.005,34.749],[-102.169,34.749],[-102.169,35.182]]]]}}]}

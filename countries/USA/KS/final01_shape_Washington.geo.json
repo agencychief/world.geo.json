@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Washington","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.349,40.002],[-96.807,40.002],[-96.807,39.569],[-97.3,39.569],[-97.371,39.569],[-97.371,40.002]]]]}}]}

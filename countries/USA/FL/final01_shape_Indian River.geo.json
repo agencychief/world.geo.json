@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Indian River","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.321,27.558],[-80.677,27.558],[-80.776,27.558],[-80.792,27.646],[-80.875,27.64],[-80.869,27.821],[-80.508,27.821],[-80.447,27.859]]]]}}]}

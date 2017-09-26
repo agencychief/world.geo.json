@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Howell","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.075,37.055],[-91.653,37.05],[-91.67,36.502],[-92.119,36.496],[-92.091,37.055]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Genesee","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.465,43.222],[-83.46,43.222],[-83.454,42.883],[-83.69,42.871],[-83.684,42.784],[-83.925,42.778],[-83.931,43.134],[-83.931,43.222],[-83.695,43.222]]]]}}]}

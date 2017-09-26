@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Franklin","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-74.028,44.997],[-73.908,44.427],[-74.143,44.405],[-74.094,44.137],[-74.28,44.12],[-74.538,44.098],[-74.642,44.953],[-74.719,44.953],[-74.724,44.997]]]]}}]}

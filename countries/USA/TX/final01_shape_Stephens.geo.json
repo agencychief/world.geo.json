@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Stephens","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.762,32.958],[-98.576,32.953],[-98.576,32.515],[-98.74,32.515],[-99.096,32.515],[-99.096,32.958],[-98.948,32.958]]]]}}]}

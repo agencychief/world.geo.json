@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Sabana Grande","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.925,18.149],[-66.886,18.023],[-66.958,18.034],[-66.985,18.05],[-66.98,18.143]]]]}}]}

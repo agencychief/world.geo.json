@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Neosho","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.399,37.734],[-95.087,37.734],[-95.087,37.674],[-95.087,37.384],[-95.52,37.384],[-95.525,37.384],[-95.525,37.734]]]]}}]}

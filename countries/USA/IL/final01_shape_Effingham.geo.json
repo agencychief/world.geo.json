@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Effingham","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.581,39.213],[-88.471,39.213],[-88.471,39.169],[-88.362,39.169],[-88.362,38.912],[-88.696,38.917],[-88.805,38.912],[-88.805,39.218]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Jasper","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.578,37.362],[-94.079,37.351],[-94.085,37.291],[-94.052,37.291],[-94.058,37.05],[-94.616,37.055],[-94.616,37.362]]]]}}]}

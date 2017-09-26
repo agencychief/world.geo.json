@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Douglas","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.126,39.881],[-87.94,39.881],[-87.967,39.684],[-88.066,39.684],[-88.066,39.651],[-88.471,39.651],[-88.46,39.881]]]]}}]}

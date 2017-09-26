@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Elkhart","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.99,41.76],[-85.793,41.76],[-85.661,41.76],[-85.656,41.524],[-85.656,41.437],[-86.061,41.437],[-86.061,41.76]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Otoe","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.892,40.785],[-95.832,40.785],[-95.887,40.719],[-95.777,40.648],[-95.766,40.533],[-95.712,40.522],[-96.068,40.522],[-96.462,40.522],[-96.462,40.785]]]]}}]}

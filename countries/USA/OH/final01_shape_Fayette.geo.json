@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Fayette","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.651,39.717],[-83.252,39.695],[-83.268,39.514],[-83.372,39.377],[-83.591,39.377],[-83.575,39.547],[-83.668,39.553]]]]}}]}

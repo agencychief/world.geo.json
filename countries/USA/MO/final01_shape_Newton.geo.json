@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Newton","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.616,37.055],[-94.616,37.055],[-94.058,37.05],[-94.063,36.929],[-94.069,36.748],[-94.54,36.765],[-94.616,36.765],[-94.616,37]]]]}}]}

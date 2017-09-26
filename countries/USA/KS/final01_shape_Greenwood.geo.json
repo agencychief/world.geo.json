@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Greenwood","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.281,38.172],[-95.958,38.172],[-95.964,37.734],[-95.964,37.603],[-96.309,37.608],[-96.528,37.608],[-96.522,38.085],[-96.358,38.085],[-96.358,38.172]]]]}}]}

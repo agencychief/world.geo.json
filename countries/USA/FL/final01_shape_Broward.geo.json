@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Broward","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.25,26.337],[-80.075,26.32],[-80.119,25.975],[-80.677,25.959],[-80.677,25.981],[-80.875,25.981],[-80.88,26.331]]]]}}]}

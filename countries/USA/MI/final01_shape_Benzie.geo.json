@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Benzie","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.039,44.778],[-85.815,44.772],[-85.815,44.515],[-86.182,44.52],[-86.231,44.52],[-86.253,44.69],[-86.105,44.734],[-86.072,44.778]]]]}}]}

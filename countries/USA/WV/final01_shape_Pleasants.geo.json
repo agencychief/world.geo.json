@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WV"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Pleasants","state":"WV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.039,39.47],[-81.006,39.35],[-81.22,39.306],[-81.242,39.268],[-81.373,39.344],[-81.22,39.388],[-81.121,39.459]]]]}}]}

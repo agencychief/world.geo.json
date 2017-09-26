@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Atkinson","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.142,31.419],[-82.627,31.364],[-82.627,31.277],[-82.698,31.277],[-82.671,31.184],[-83.032,31.184],[-83.049,31.184],[-83.032,31.277]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Clay","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.826,40.697],[-97.826,40.352],[-98.275,40.352],[-98.28,40.352],[-98.28,40.697],[-97.826,40.697]]]]}}]}

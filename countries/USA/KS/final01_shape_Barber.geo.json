@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Barber","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.483,37.471],[-98.466,37.471],[-98.466,37.384],[-98.352,37.384],[-98.346,37],[-98.543,37],[-99.003,37],[-99.014,37.471]]]]}}]}

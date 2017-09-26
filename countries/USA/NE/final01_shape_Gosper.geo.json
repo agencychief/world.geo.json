@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Gosper","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.984,40.697],[-99.644,40.686],[-99.644,40.352],[-99.989,40.352],[-100.093,40.352],[-100.093,40.44],[-99.984,40.44]]]]}}]}

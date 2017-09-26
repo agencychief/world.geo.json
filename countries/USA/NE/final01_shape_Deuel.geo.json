@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Deuel","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.12,41.223],[-102.054,41.223],[-102.054,41.004],[-102.054,41.004],[-102.624,41.004],[-102.613,41.223]]]]}}]}

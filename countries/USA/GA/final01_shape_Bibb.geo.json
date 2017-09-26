@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Bibb","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.723,32.953],[-83.657,32.887],[-83.514,32.843],[-83.493,32.805],[-83.602,32.739],[-83.597,32.663],[-83.701,32.69],[-83.827,32.745],[-83.892,32.849]]]]}}]}

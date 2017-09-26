@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Rockdale","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.98,33.785],[-83.914,33.747],[-83.931,33.654],[-84.046,33.528],[-84.128,33.566],[-84.183,33.648],[-84.117,33.615],[-84.024,33.752]]]]}}]}

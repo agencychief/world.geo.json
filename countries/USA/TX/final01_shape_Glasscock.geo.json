@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Glasscock","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.747,32.087],[-101.265,32.087],[-101.265,31.649],[-101.687,31.649],[-101.775,31.649],[-101.775,32.087]]]]}}]}

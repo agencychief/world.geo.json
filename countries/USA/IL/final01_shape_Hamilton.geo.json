@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hamilton","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.592,38.255],[-88.373,38.255],[-88.373,37.909],[-88.427,37.909],[-88.707,37.909],[-88.701,38.255]]]]}}]}

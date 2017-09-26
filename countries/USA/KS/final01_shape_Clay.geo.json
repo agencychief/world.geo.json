@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Clay","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.3,39.569],[-96.96,39.569],[-96.96,39.218],[-96.966,39.131],[-97.262,39.131],[-97.371,39.131],[-97.371,39.569]]]]}}]}

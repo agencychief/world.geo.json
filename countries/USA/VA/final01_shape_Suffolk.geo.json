@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Suffolk","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.405,36.896],[-76.46,36.814],[-76.493,36.551],[-76.542,36.551],[-76.915,36.551],[-76.898,36.644],[-76.482,36.929],[-76.471,36.885]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Butts","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.925,33.451],[-83.865,33.369],[-83.816,33.243],[-83.821,33.183],[-84.04,33.205],[-84.122,33.205],[-84.1,33.298]]]]}}]}

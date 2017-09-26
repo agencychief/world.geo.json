@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Edgar","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.535,39.881],[-87.535,39.607],[-87.529,39.476],[-87.765,39.487],[-87.962,39.481],[-87.967,39.684],[-87.94,39.881]]]]}}]}

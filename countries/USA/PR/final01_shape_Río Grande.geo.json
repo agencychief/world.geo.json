@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Río Grande","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-65.753,18.384],[-65.758,18.291],[-65.824,18.275],[-65.835,18.275],[-65.868,18.297],[-65.868,18.379],[-65.829,18.422]]]]}}]}

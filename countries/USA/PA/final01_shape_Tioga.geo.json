@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Tioga","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.926,42.001],[-76.876,41.595],[-76.959,41.552],[-77.599,41.541],[-77.61,42.001],[-76.964,42.001]]]]}}]}

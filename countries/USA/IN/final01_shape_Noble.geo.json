@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Noble","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.196,41.524],[-85.19,41.267],[-85.305,41.267],[-85.65,41.294],[-85.656,41.524]]]]}}]}

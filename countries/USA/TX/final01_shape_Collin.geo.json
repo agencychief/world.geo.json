@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Collin","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.834,33.407],[-96.834,33.407],[-96.385,33.396],[-96.385,33.342],[-96.298,33.353],[-96.298,32.98],[-96.845,32.986]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Kemper","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.345,32.931],[-88.389,32.58],[-88.652,32.575],[-88.915,32.575],[-88.915,32.925],[-88.811,32.925]]]]}}]}

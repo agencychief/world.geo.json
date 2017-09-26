@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Stanton","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.043,37.74],[-101.528,37.734],[-101.528,37.389],[-101.884,37.389],[-102.043,37.389],[-102.043,37.647]]]]}}]}

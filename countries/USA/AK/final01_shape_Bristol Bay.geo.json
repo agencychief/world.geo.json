@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AK"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Bristol Bay","state":"AK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-156.988,58.886],[-156.32,58.897],[-156.32,58.612],[-157.267,58.612],[-157.075,58.705]]]]}}]}

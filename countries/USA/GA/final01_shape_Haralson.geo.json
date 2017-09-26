@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Haralson","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.311,33.9],[-85.048,33.906],[-85.037,33.813],[-85.053,33.714],[-85.338,33.654],[-85.388,33.9]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Caldwell","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.871,39.788],[-93.756,39.782],[-93.756,39.613],[-93.762,39.525],[-94.101,39.525],[-94.211,39.525],[-94.206,39.788]]]]}}]}

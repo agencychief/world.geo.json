@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Greene","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.211,39.169],[-87.053,39.169],[-86.686,39.164],[-86.68,38.994],[-86.68,38.906],[-87.096,38.906],[-87.239,38.906],[-87.239,39.169]]]]}}]}

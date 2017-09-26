@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Jayuya","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.569,18.297],[-66.541,18.165],[-66.547,18.154],[-66.552,18.154],[-66.651,18.16],[-66.624,18.247]]]]}}]}

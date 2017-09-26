@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Nobles","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.051,43.846],[-95.465,43.846],[-95.454,43.846],[-95.454,43.501],[-96.051,43.501]]]]}}]}

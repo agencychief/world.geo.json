@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"LaGrange","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.371,41.76],[-85.196,41.76],[-85.196,41.524],[-85.656,41.524],[-85.661,41.76]]]]}}]}

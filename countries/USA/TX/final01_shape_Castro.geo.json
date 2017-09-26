@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Castro","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.005,34.749],[-101.999,34.749],[-101.999,34.311],[-102.328,34.311],[-102.525,34.311],[-102.525,34.749],[-102.169,34.749]]]]}}]}

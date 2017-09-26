@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"ID"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Boundary","state":"ID"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-116.047,49],[-116.047,48.502],[-116.787,48.502],[-116.787,48.847],[-116.836,48.847],[-117.033,48.847],[-117.033,49]]]]}}]}

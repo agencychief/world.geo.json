@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Polk","state":"AR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.452,34.727],[-93.932,34.667],[-93.937,34.349],[-94.255,34.355],[-94.244,34.191],[-94.468,34.191],[-94.463,34.508]]]]}}]}

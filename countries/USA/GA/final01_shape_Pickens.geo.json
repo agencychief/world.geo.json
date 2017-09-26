@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Pickens","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.347,34.563],[-84.32,34.47],[-84.259,34.464],[-84.259,34.382],[-84.582,34.388],[-84.582,34.41],[-84.654,34.415],[-84.654,34.547]]]]}}]}

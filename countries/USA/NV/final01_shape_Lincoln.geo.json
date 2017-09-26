@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NV"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lincoln","state":"NV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-114.706,38.676],[-114.048,38.676],[-114.048,37],[-114.048,36.841],[-114.081,36.841],[-115.894,36.841],[-115.894,38.052],[-115.001,38.052],[-115.001,38.676]]]]}}]}

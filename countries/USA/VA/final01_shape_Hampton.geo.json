@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hampton","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.394,37.104],[-76.285,37.115],[-76.274,37.082],[-76.307,37],[-76.389,36.989],[-76.444,37.022],[-76.433,37.093]]]]}}]}

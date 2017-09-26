@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hitchcock","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.112,40.352],[-100.756,40.352],[-100.761,40.002],[-101.326,40.002],[-101.326,40.352]]]]}}]}

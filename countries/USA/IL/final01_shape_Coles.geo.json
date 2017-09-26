@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Coles","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.066,39.651],[-88.066,39.684],[-87.967,39.684],[-87.962,39.481],[-88.016,39.481],[-88.011,39.377],[-88.142,39.377],[-88.471,39.372],[-88.471,39.651]]]]}}]}

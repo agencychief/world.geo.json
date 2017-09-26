@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Uvalde","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.606,29.628],[-99.414,29.628],[-99.414,29.092],[-100.11,29.086],[-100.11,29.623],[-100.016,29.623]]]]}}]}

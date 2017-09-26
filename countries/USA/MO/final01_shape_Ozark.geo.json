@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ozark","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.529,36.803],[-92.113,36.792],[-92.119,36.496],[-92.529,36.496],[-92.77,36.496],[-92.765,36.809]]]]}}]}

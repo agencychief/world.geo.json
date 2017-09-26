@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Jeff Davis","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-104.102,31.107],[-103.44,30.663],[-103.801,30.412],[-104.984,30.631],[-104.918,30.663]]]]}}]}

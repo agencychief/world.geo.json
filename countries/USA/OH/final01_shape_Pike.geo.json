@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Pike","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.356,39.197],[-82.786,39.169],[-82.808,38.95],[-83.213,38.961],[-83.213,38.994],[-83.383,39.054]]]]}}]}

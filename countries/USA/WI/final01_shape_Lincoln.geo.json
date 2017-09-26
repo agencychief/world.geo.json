@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lincoln","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.424,45.468],[-89.424,45.117],[-90.043,45.123],[-90.043,45.38],[-90.043,45.555],[-89.43,45.555]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Clarke","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.032,39.262],[-78.032,39.262],[-77.829,39.131],[-77.961,39.016],[-78.005,38.977],[-78.153,39.038]]]]}}]}

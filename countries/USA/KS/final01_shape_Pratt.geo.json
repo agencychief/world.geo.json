@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Pratt","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.905,37.827],[-98.472,37.827],[-98.466,37.734],[-98.466,37.471],[-98.483,37.471],[-99.014,37.471],[-99.014,37.827]]]]}}]}

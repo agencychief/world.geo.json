@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Logan","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.391,39.136],[-100.811,39.131],[-100.816,38.698],[-101.26,38.704],[-101.484,38.698],[-101.479,39.136]]]]}}]}

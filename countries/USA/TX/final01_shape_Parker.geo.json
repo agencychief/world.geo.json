@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Parker","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.056,33.002],[-97.924,33.002],[-97.546,32.997],[-97.552,32.553],[-97.618,32.553],[-98.067,32.559],[-98.056,33.002]]]]}}]}

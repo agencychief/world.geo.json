@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Texas","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.25,37.603],[-91.807,37.597],[-91.757,37.597],[-91.757,37.422],[-91.648,37.422],[-91.653,37.05],[-92.091,37.055],[-92.25,37.06],[-92.25,37.471]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Putnam","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.009,39.865],[-86.697,39.865],[-86.686,39.629],[-86.642,39.629],[-86.658,39.602],[-86.686,39.47],[-86.938,39.476],[-87.014,39.476],[-87.014,39.607]]]]}}]}

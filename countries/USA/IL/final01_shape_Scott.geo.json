@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Scott","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.372,39.667],[-90.3,39.635],[-90.3,39.52],[-90.58,39.52],[-90.645,39.7],[-90.602,39.788],[-90.372,39.755]]]]}}]}

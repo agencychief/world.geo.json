@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cottonwood","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.46,44.197],[-95.109,44.197],[-95.098,44.109],[-94.857,44.109],[-94.857,43.846],[-95.465,43.846]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Woodson","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.81,38.041],[-95.52,38.041],[-95.525,37.734],[-95.92,37.734],[-95.964,37.734],[-95.958,38.041]]]]}}]}

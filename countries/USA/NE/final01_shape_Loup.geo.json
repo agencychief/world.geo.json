@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Loup","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.222,42.088],[-99.222,41.743],[-99.688,41.738],[-99.688,42.088],[-99.233,42.088]]]]}}]}

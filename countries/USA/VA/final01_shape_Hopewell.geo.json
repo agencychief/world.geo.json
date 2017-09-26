@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hopewell","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.298,37.312],[-77.282,37.312],[-77.26,37.285],[-77.331,37.258],[-77.337,37.312],[-77.298,37.312]]]]}}]}

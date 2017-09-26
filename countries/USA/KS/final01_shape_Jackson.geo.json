@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Jackson","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.728,39.651],[-95.564,39.651],[-95.569,39.421],[-95.591,39.218],[-95.887,39.218],[-96.035,39.218],[-96.035,39.563],[-95.788,39.563],[-95.788,39.651]]]]}}]}

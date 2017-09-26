@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Sherman","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.823,41.393],[-98.746,41.393],[-98.746,41.048],[-99.053,41.048],[-99.206,41.048],[-99.206,41.393]]]]}}]}

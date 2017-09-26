@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Guayanilla","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.799,18.132],[-66.772,18.138],[-66.766,18.039],[-66.739,18.05],[-66.733,18.017],[-66.854,17.957]]]]}}]}

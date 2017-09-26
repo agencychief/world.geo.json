@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Dimmit","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.781,28.642],[-99.409,28.642],[-99.398,28.642],[-99.392,28.204],[-100.115,28.199],[-100.115,28.648]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Black Hawk","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.469,42.642],[-92.08,42.642],[-92.064,42.297],[-92.299,42.297],[-92.535,42.297],[-92.557,42.642]]]]}}]}

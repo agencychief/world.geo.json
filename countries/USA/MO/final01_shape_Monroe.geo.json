@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Monroe","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.299,39.607],[-92.184,39.602],[-92.184,39.662],[-91.845,39.657],[-91.713,39.657],[-91.719,39.339],[-92.311,39.35],[-92.299,39.607]]]]}}]}

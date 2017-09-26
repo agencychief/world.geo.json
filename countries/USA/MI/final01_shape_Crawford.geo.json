@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Crawford","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.774,44.86],[-84.374,44.854],[-84.369,44.509],[-84.736,44.509],[-84.851,44.509],[-84.845,44.86]]]]}}]}

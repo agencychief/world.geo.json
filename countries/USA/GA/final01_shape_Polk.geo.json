@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Polk","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.421,34.081],[-85.048,34.097],[-84.922,34.081],[-84.977,33.95],[-85.048,33.955],[-85.048,33.906],[-85.311,33.9],[-85.388,33.9],[-85.399,33.966]]]]}}]}

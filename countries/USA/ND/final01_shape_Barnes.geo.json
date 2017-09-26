@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"ND"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Barnes","state":"ND"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.089,47.242],[-97.705,47.242],[-97.683,46.629],[-98.034,46.629],[-98.439,46.629],[-98.466,47.242]]]]}}]}

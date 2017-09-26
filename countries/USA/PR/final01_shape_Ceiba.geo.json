@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ceiba","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-65.753,18.297],[-65.714,18.269],[-65.632,18.286],[-65.588,18.231],[-65.66,18.209],[-65.682,18.253],[-65.769,18.28],[-65.758,18.291]]]]}}]}

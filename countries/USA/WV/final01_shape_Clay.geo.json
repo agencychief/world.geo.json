@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WV"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Clay","state":"WV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.055,38.643],[-81.033,38.665],[-80.88,38.506],[-80.82,38.479],[-81.231,38.265],[-81.285,38.474],[-81.083,38.611]]]]}}]}

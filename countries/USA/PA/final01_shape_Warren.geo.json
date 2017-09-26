@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Warren","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.062,42.001],[-78.919,42.001],[-78.958,41.623],[-79.511,41.623],[-79.615,41.623],[-79.609,42.001]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Perkins","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.879,41.004],[-101.249,41.004],[-101.249,40.697],[-101.572,40.697],[-102.054,40.697],[-102.054,41.004]]]]}}]}

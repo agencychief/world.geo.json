@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Terry","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.366,33.391],[-102.076,33.391],[-102.076,32.958],[-102.207,32.958],[-102.596,32.958],[-102.596,33.391]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Stark","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.857,41.234],[-89.638,41.234],[-89.638,41.146],[-89.638,40.977],[-89.966,40.977],[-89.988,40.977],[-89.983,41.152],[-89.868,41.146]]]]}}]}

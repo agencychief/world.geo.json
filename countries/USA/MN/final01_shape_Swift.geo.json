@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Swift","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.975,45.413],[-95.257,45.413],[-95.246,45.15],[-95.575,45.15],[-96.035,45.15],[-96.106,45.177],[-96.117,45.413]]]]}}]}

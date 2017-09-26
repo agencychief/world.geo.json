@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Gratiot","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.774,43.468],[-84.61,43.468],[-84.369,43.468],[-84.369,43.129],[-84.369,43.118],[-84.719,43.118],[-84.834,43.118],[-84.845,43.468]]]]}}]}

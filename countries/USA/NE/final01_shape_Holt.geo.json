@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Holt","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.998,42.888],[-98.582,42.778],[-98.308,42.762],[-98.302,42.439],[-98.302,42.088],[-99.222,42.088],[-99.233,42.088],[-99.255,42.806]]]]}}]}

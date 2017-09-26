@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lavaca","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.873,29.634],[-96.561,29.338],[-96.659,29.261],[-96.939,29.064],[-96.977,29.102],[-97.24,29.382],[-97.201,29.579],[-97.141,29.628]]]]}}]}

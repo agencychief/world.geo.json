@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Todd","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.153,46.371],[-94.731,46.371],[-94.655,46.349],[-94.644,45.774],[-95.142,45.774],[-95.147,46.108]]]]}}]}

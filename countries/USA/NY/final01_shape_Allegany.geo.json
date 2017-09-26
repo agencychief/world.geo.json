@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Allegany","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.224,42.521],[-78.037,42.521],[-77.84,42.516],[-77.84,42.477],[-77.725,42.472],[-77.747,42.001],[-78.207,42.001],[-78.306,42.001],[-78.311,42.521]]]]}}]}

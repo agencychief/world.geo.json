@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Pike","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.355,31.348],[-90.262,31.348],[-90.262,31.003],[-90.35,31.003],[-90.372,30.997],[-90.547,30.997],[-90.547,31.348]]]]}}]}

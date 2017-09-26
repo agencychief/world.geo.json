@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Nottoway","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.229,37.296],[-77.797,37.192],[-77.901,37.143],[-77.89,36.989],[-77.966,36.989],[-78.005,37.022],[-78.081,37.011],[-78.24,37.121]]]]}}]}

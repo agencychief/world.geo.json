@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"San Francisco","state":"CA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-122.428,37.707],[-122.505,37.707],[-122.516,37.783],[-122.406,37.811],[-122.357,37.729],[-122.39,37.707]]]]}}]}

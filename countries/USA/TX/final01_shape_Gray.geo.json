@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Gray","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.085,35.62],[-100.542,35.62],[-100.537,35.182],[-101.085,35.182]]]]}}]}

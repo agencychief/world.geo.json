@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Macon","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.677,40.04],[-92.343,40.04],[-92.343,39.952],[-92.288,39.952],[-92.299,39.607],[-92.299,39.607],[-92.694,39.613],[-92.688,39.7],[-92.858,39.7],[-92.847,40.04]]]]}}]}

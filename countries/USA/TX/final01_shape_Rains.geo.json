@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Rains","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.865,32.98],[-95.668,32.958],[-95.635,32.723],[-95.854,32.772],[-95.936,32.838],[-95.986,32.876],[-95.947,32.98]]]]}}]}

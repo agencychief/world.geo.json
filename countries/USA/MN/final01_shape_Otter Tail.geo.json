@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Otter Tail","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.177,46.716],[-95.164,46.716],[-95.153,46.371],[-95.147,46.108],[-95.772,46.108],[-96.265,46.108],[-96.281,46.629],[-96.172,46.629]]]]}}]}

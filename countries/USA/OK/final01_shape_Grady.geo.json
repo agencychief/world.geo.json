@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Grady","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.094,35.379],[-97.672,35.335],[-97.667,34.853],[-97.667,34.684],[-97.996,34.684],[-98.089,34.684],[-98.094,34.853]]]]}}]}

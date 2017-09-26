@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Bennett","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.901,43.392],[-101.227,43.392],[-101.227,42.998],[-102.081,42.998],[-102.109,43.392]]]]}}]}

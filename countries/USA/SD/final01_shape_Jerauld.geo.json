@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Jerauld","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.691,44.197],[-98.33,44.197],[-98.33,43.94],[-98.806,43.934],[-98.927,43.934],[-98.927,44.197],[-98.702,44.197]]]]}}]}

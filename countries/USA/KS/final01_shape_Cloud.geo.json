@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cloud","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.7,39.657],[-97.371,39.657],[-97.371,39.569],[-97.371,39.306],[-97.59,39.306],[-97.93,39.306],[-97.93,39.657]]]]}}]}

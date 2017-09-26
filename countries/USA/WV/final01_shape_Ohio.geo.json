@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WV"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ohio","state":"WV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.683,40.188],[-80.519,40.16],[-80.519,40.018],[-80.727,40.035],[-80.732,40.035],[-80.705,40.155]]]]}}]}

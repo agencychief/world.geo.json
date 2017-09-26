@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Marshall","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.248,41.48],[-86.061,41.48],[-86.061,41.437],[-86.056,41.174],[-86.242,41.174],[-86.467,41.174],[-86.467,41.475]]]]}}]}

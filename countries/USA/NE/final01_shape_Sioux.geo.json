@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Sioux","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-103.505,43.003],[-103.478,42.439],[-103.445,42.439],[-103.445,42.088],[-103.401,42.088],[-103.401,42.006],[-103.456,42.006],[-104.053,42.001],[-104.053,43.003]]]]}}]}

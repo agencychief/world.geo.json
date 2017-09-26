@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Mathews","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.356,37.526],[-76.329,37.493],[-76.29,37.515],[-76.252,37.449],[-76.274,37.312],[-76.405,37.4],[-76.449,37.422],[-76.438,37.515]]]]}}]}

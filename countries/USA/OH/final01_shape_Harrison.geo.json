@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Harrison","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.187,40.434],[-80.864,40.423],[-80.886,40.16],[-81.225,40.171],[-81.34,40.171],[-81.34,40.215],[-81.335,40.303],[-81.274,40.303],[-81.269,40.434]]]]}}]}

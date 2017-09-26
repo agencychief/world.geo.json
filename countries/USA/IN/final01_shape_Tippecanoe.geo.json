@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Tippecanoe","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.096,40.56],[-86.773,40.56],[-86.697,40.56],[-86.697,40.434],[-86.697,40.215],[-86.921,40.215],[-87.091,40.215],[-87.096,40.478]]]]}}]}

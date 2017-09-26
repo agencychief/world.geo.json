@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hendricks","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.434,39.925],[-86.324,39.925],[-86.324,39.629],[-86.658,39.602],[-86.642,39.629],[-86.686,39.629],[-86.697,39.925]]]]}}]}

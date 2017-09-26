@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Gregg","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.704,32.652],[-94.704,32.422],[-94.578,32.394],[-94.6,32.361],[-94.989,32.367],[-94.989,32.537],[-94.819,32.591],[-94.759,32.657]]]]}}]}

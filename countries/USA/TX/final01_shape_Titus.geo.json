@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Titus","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.808,33.364],[-94.819,32.98],[-94.939,33.073],[-95.126,33.035],[-95.126,33.391],[-94.885,33.396]]]]}}]}

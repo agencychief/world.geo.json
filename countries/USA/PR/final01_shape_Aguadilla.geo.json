@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Aguadilla","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-67.106,18.516],[-67.056,18.461],[-67.133,18.39],[-67.16,18.417],[-67.166,18.488],[-67.106,18.516]]]]}}]}

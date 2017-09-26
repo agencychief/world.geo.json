@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Alcona","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.547,44.86],[-83.323,44.86],[-83.273,44.712],[-83.317,44.509],[-83.887,44.509],[-83.887,44.854]]]]}}]}

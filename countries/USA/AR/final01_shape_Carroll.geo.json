@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Carroll","state":"AR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.729,36.496],[-93.296,36.496],[-93.302,36.124],[-93.477,36.124],[-93.587,36.157],[-93.658,36.305],[-93.817,36.305],[-93.893,36.376],[-93.866,36.496]]]]}}]}

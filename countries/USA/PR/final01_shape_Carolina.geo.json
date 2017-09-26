@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Carolina","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-65.994,18.461],[-65.917,18.401],[-65.917,18.269],[-65.945,18.291],[-66.038,18.45]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Shackelford","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.233,32.958],[-99.096,32.958],[-99.096,32.515],[-99.195,32.515],[-99.611,32.515],[-99.611,32.958],[-99.469,32.958]]]]}}]}

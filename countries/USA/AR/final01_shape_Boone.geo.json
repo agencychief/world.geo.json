@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Boone","state":"AR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.066,36.496],[-92.853,36.496],[-92.853,36.464],[-92.885,36.491],[-92.891,36.113],[-92.946,36.113],[-93.302,36.124],[-93.296,36.496]]]]}}]}

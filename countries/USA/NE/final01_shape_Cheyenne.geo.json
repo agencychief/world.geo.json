@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cheyenne","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.755,41.437],[-102.635,41.437],[-102.635,41.393],[-102.607,41.393],[-102.613,41.223],[-102.624,41.004],[-102.651,41.004],[-103.385,41.004],[-103.368,41.437]]]]}}]}

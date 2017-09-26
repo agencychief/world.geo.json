@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Amite","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.722,31.348],[-90.547,31.348],[-90.547,30.997],[-90.826,30.997],[-91.062,30.997],[-91.062,31.282],[-91.095,31.321],[-91.018,31.348]]]]}}]}

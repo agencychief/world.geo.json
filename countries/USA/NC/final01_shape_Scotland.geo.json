@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Scotland","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.462,35.045],[-79.363,34.957],[-79.33,34.771],[-79.462,34.629],[-79.686,34.804],[-79.615,34.815],[-79.626,34.853],[-79.56,34.908],[-79.571,34.996]]]]}}]}

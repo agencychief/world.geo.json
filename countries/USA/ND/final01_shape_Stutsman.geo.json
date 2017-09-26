@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"ND"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Stutsman","state":"ND"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.48,47.33],[-98.499,47.324],[-98.466,47.324],[-98.466,47.242],[-98.439,46.629],[-99.452,46.634]]]]}}]}

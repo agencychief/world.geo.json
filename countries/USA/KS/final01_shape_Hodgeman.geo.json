@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hodgeman","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.578,38.26],[-99.567,38.085],[-99.567,37.915],[-99.874,37.915],[-100.225,37.915],[-100.225,38.002],[-100.225,38.26],[-99.584,38.26]]]]}}]}

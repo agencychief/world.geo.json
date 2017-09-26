@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Roseau","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.323,49],[-95.323,48.934],[-95.257,48.885],[-95.093,48.918],[-95.087,48.715],[-95.345,48.71],[-95.345,48.54],[-96.259,48.546],[-96.385,48.546],[-96.407,49]]]]}}]}

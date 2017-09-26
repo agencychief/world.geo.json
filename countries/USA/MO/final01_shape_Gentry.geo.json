@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Gentry","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.326,40.385],[-94.216,40.385],[-94.216,40.139],[-94.216,40.035],[-94.578,40.04],[-94.605,40.04],[-94.6,40.385]]]]}}]}

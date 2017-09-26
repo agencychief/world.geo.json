@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Live Oak","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.1,28.785],[-98.007,28.692],[-98.089,28.664],[-97.82,28.177],[-97.902,28.117],[-97.88,28.056],[-98.237,28.056],[-98.335,28.056],[-98.335,28.615]]]]}}]}

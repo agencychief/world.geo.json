@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lawrence","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.008,37.291],[-93.625,37.28],[-93.603,37.28],[-93.609,36.995],[-93.609,36.924],[-94.008,36.929],[-94.063,36.929],[-94.052,37.291]]]]}}]}

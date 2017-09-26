@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Butte","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-104.042,45.21],[-102.958,45.21],[-102.958,45.04],[-102.963,44.602],[-103.812,44.602],[-104.058,44.569],[-104.058,44.997]]]]}}]}

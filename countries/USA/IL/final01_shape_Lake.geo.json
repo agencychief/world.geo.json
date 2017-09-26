@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lake","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.203,42.494],[-87.803,42.494],[-87.836,42.302],[-87.759,42.154],[-88.197,42.154]]]]}}]}

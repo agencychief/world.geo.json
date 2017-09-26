@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Bayamón","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.169,18.433],[-66.131,18.422],[-66.142,18.28],[-66.191,18.258],[-66.207,18.275],[-66.196,18.39]]]]}}]}

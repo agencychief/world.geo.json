@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NM"},"features":[{"type":"Feature","properties":{"kind":"county","name":"San Juan","state":"NM"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-107.421,37],[-107.46,36.896],[-107.618,36.803],[-107.624,36.222],[-107.624,35.998],[-109.048,36.004],[-109.043,37],[-107.482,37]]]]}}]}

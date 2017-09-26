@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Gilpin","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-105.674,39.93],[-105.439,39.936],[-105.4,39.914],[-105.4,39.75],[-105.537,39.772],[-105.576,39.821],[-105.691,39.854]]]]}}]}

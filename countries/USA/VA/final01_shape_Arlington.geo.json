@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Arlington","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.117,38.934],[-77.041,38.873],[-77.046,38.84],[-77.085,38.846],[-77.112,38.846],[-77.172,38.895]]]]}}]}

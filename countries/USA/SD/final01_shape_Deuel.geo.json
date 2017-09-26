@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Deuel","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.451,44.98],[-96.451,44.63],[-96.451,44.542],[-96.884,44.542],[-96.884,44.975]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Harvey","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.152,38.172],[-97.152,38.09],[-97.152,37.915],[-97.157,37.915],[-97.7,37.915],[-97.7,38.172],[-97.371,38.172]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Fillmore","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.798,40.697],[-97.366,40.697],[-97.366,40.352],[-97.82,40.352],[-97.826,40.352],[-97.826,40.697]]]]}}]}

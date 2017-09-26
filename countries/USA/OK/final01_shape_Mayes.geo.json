@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Mayes","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.323,36.513],[-95.005,36.507],[-95.011,36.162],[-95.12,36.162],[-95.12,36.075],[-95.208,36.075],[-95.438,36.075],[-95.438,36.513],[-95.328,36.513]]]]}}]}

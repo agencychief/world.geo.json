@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Graves","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.723,36.946],[-88.482,36.94],[-88.487,36.748],[-88.487,36.502],[-88.515,36.502],[-88.816,36.502],[-88.811,36.946]]]]}}]}

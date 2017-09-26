@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Otsego","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.736,45.205],[-84.369,45.199],[-84.374,44.854],[-84.774,44.86],[-84.845,44.86],[-84.856,45.117],[-84.736,45.117]]]]}}]}

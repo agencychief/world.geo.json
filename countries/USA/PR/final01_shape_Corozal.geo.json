@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Corozal","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.306,18.368],[-66.279,18.329],[-66.311,18.247],[-66.35,18.242],[-66.377,18.297],[-66.366,18.335],[-66.317,18.368]]]]}}]}

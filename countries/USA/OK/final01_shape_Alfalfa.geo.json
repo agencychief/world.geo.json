@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Alfalfa","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.543,37],[-98.346,37],[-98.111,37],[-98.105,36.595],[-98.105,36.464],[-98.532,36.464]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AZ"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cochise","state":"AZ"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-109.831,32.427],[-109.048,32.427],[-109.048,31.332],[-110.461,31.332],[-110.45,32.427]]]]}}]}

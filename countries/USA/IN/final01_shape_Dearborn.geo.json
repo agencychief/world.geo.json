@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Dearborn","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.032,39.306],[-84.818,39.306],[-84.818,39.103],[-84.895,39.065],[-84.878,39.032],[-84.933,39.01],[-85.097,38.934],[-85.13,38.95],[-85.064,39.306]]]]}}]}

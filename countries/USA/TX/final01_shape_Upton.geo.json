@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Upton","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.224,31.649],[-101.775,31.649],[-101.775,31.08],[-102.3,31.085],[-102.317,31.649],[-102.289,31.649]]]]}}]}

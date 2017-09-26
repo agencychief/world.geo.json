@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Crawford","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.708,41.853],[-79.609,41.847],[-79.615,41.623],[-79.829,41.623],[-79.998,41.491],[-80.004,41.491],[-80.519,41.491],[-80.519,41.847]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Bullitt","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.7,38.085],[-85.557,38.074],[-85.431,38.118],[-85.519,38.014],[-85.492,37.992],[-85.618,37.855],[-85.738,37.811],[-85.941,37.997]]]]}}]}

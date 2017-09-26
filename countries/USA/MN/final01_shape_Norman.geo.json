@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Norman","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.232,47.5],[-96.068,47.5],[-96.068,47.149],[-96.582,47.149],[-96.829,47.149],[-96.851,47.5]]]]}}]}

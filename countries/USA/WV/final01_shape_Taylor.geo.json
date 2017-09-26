@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WV"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Taylor","state":"WV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.938,39.454],[-79.894,39.438],[-79.894,39.301],[-79.976,39.262],[-80.168,39.24],[-80.201,39.279],[-80.195,39.394],[-80.108,39.41],[-80.086,39.388]]]]}}]}

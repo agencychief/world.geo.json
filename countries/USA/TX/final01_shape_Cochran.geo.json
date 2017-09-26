@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cochran","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-103.001,33.824],[-102.618,33.824],[-102.596,33.391],[-103.056,33.391],[-103.045,33.824]]]]}}]}

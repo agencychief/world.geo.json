@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Parmer","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-103.045,34.749],[-102.525,34.749],[-102.525,34.311],[-103.045,34.311]]]]}}]}

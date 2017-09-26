@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Wyoming","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.219,41.541],[-76.197,41.645],[-76.115,41.65],[-75.721,41.645],[-75.836,41.426],[-75.836,41.426],[-76.011,41.387],[-76.285,41.376]]]]}}]}

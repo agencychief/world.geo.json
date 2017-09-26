@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Nemaha","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.237,40.002],[-96.013,40.002],[-95.788,40.002],[-95.788,39.651],[-95.788,39.563],[-96.035,39.563],[-96.237,39.569],[-96.237,40.002]]]]}}]}

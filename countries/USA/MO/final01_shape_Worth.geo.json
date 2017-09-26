@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Worth","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.288,40.571],[-94.233,40.571],[-94.216,40.385],[-94.326,40.385],[-94.6,40.385],[-94.633,40.571],[-94.474,40.571]]]]}}]}

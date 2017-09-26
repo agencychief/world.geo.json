@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Kalkaska","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.251,44.86],[-84.845,44.86],[-84.851,44.509],[-85.333,44.515],[-85.327,44.849]]]]}}]}

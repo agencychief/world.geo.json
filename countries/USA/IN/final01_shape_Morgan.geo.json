@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Morgan","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.248,39.635],[-86.253,39.344],[-86.379,39.339],[-86.631,39.35],[-86.631,39.47],[-86.686,39.47],[-86.658,39.602],[-86.324,39.629]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Clinton","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.975,39.569],[-83.668,39.553],[-83.575,39.547],[-83.591,39.377],[-83.81,39.224],[-83.865,39.246],[-83.991,39.257],[-84.007,39.257],[-83.975,39.569]]]]}}]}

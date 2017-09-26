@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Edmunds","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.71,45.594],[-98.724,45.594],[-98.724,45.243],[-99.71,45.243]]]]}}]}

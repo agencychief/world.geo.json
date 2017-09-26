@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Eastland","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.74,32.515],[-98.576,32.515],[-98.478,32.515],[-98.472,32.301],[-98.549,32.263],[-98.927,32.077],[-99.118,32.082],[-99.113,32.515],[-99.096,32.515]]]]}}]}

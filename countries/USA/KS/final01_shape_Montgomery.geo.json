@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Montgomery","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.964,37.389],[-95.525,37.384],[-95.52,37.384],[-95.52,37],[-95.909,37],[-95.964,37],[-95.964,37.301]]]]}}]}

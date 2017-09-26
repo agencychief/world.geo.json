@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Guánica","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.958,18.034],[-66.886,18.023],[-66.859,17.957],[-66.925,17.973],[-66.925,17.93],[-66.98,17.951]]]]}}]}

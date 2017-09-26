@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"ND"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Billings","state":"ND"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-103.664,47.33],[-103.034,47.33],[-103.034,46.979],[-103.231,46.979],[-103.231,46.629],[-103.609,46.629],[-103.609,46.979],[-103.67,46.979]]]]}}]}

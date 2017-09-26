@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Brown","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.253,39.344],[-86.083,39.344],[-86.078,39.049],[-86.319,39.049],[-86.368,39.049],[-86.379,39.339]]]]}}]}

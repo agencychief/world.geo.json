@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Barton","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.812,38.698],[-98.488,38.698],[-98.483,38.523],[-98.478,38.26],[-98.91,38.26],[-99.031,38.26],[-99.031,38.698]]]]}}]}

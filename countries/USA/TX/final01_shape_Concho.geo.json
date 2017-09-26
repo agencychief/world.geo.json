@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Concho","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.726,31.578],[-99.655,31.529],[-99.677,31.501],[-99.622,31.469],[-99.622,31.501],[-99.6,31.491],[-99.606,31.085],[-100.115,31.091],[-100.11,31.578]]]]}}]}

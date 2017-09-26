@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Rice","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.017,38.523],[-97.924,38.523],[-97.924,38.172],[-97.93,38.172],[-98.472,38.172],[-98.483,38.523]]]]}}]}

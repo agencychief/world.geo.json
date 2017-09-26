@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cuming","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.895,42.088],[-96.823,42.088],[-96.555,42.088],[-96.555,42.017],[-96.555,41.743],[-96.906,41.743],[-97.021,41.743],[-97.021,42.088]]]]}}]}

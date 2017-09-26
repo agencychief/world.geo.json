@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Prowers","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.213,38.265],[-102.043,38.271],[-102.043,37.647],[-102.749,37.641],[-102.744,38.265]]]]}}]}

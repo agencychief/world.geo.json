@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Boyd","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.499,42.998],[-98.445,42.932],[-98.308,42.883],[-98.308,42.762],[-98.582,42.778],[-98.998,42.888],[-99.255,42.806],[-99.255,42.998]]]]}}]}

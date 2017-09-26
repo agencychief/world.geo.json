@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Henry","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.598,41.163],[-91.483,41.163],[-91.368,41.163],[-91.368,41.075],[-91.374,40.812],[-91.604,40.812],[-91.719,40.812],[-91.713,41.163]]]]}}]}

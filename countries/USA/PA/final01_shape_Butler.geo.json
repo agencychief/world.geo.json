@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Butler","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.998,41.174],[-79.692,41.168],[-79.692,40.67],[-80.146,40.675],[-80.157,40.856],[-80.163,40.998],[-80.097,41.07]]]]}}]}

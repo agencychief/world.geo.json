@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hopkins","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.493,33.353],[-95.306,33.374],[-95.306,32.964],[-95.668,32.958],[-95.865,32.98],[-95.859,33.221],[-95.755,33.298],[-95.651,33.309],[-95.597,33.353]]]]}}]}

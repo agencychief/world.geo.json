@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lincoln","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.488,35.571],[-80.962,35.549],[-80.946,35.489],[-80.957,35.401],[-81.455,35.417],[-81.532,35.571]]]]}}]}

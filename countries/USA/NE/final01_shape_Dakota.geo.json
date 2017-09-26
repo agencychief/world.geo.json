@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Dakota","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.725,42.395],[-96.725,42.526],[-96.632,42.526],[-96.445,42.488],[-96.385,42.472],[-96.418,42.351],[-96.358,42.275],[-96.725,42.28]]]]}}]}

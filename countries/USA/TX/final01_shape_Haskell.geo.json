@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Haskell","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.518,33.396],[-99.474,33.396],[-99.469,32.958],[-99.611,32.958],[-99.989,32.958],[-99.989,33.396]]]]}}]}

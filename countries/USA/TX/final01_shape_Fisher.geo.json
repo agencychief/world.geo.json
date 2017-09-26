@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Fisher","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.52,32.964],[-100.142,32.958],[-100.148,32.52],[-100.663,32.526],[-100.657,32.964]]]]}}]}

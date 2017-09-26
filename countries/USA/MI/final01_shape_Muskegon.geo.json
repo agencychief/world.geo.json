@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Muskegon","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.412,43.474],[-86.039,43.468],[-86.039,43.293],[-85.793,43.293],[-85.793,43.206],[-85.908,43.206],[-85.908,43.118],[-86.269,43.118],[-86.461,43.474]]]]}}]}

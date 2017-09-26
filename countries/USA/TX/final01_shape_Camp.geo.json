@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Camp","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.126,33.035],[-94.939,33.073],[-94.819,32.98],[-94.72,32.904],[-94.781,32.904],[-95.153,32.904],[-95.153,33.013]]]]}}]}

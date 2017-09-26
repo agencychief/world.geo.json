@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Butler","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.114,38.085],[-96.84,38.085],[-96.522,38.085],[-96.528,37.608],[-96.528,37.477],[-97.081,37.477],[-97.152,37.477],[-97.152,38.09]]]]}}]}

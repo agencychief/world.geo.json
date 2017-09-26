@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Union","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.299,30.143],[-82.145,30.143],[-82.31,29.957],[-82.419,29.924],[-82.529,29.941],[-82.573,30.006],[-82.457,30.105],[-82.457,30.138]]]]}}]}

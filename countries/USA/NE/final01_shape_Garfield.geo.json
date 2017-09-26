@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Garfield","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.762,42.088],[-98.757,41.738],[-99.211,41.743],[-99.222,41.743],[-99.222,42.088]]]]}}]}

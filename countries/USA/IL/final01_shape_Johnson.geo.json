@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Johnson","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.876,37.597],[-88.707,37.597],[-88.712,37.334],[-88.909,37.334],[-88.931,37.301],[-89.046,37.296],[-89.041,37.597]]]]}}]}

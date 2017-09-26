@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Wilson","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.286,29.256],[-98.132,29.442],[-98.111,29.365],[-97.842,29.376],[-97.859,29.355],[-97.727,29.223],[-98.193,28.883],[-98.406,29.113]]]]}}]}

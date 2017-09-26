@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Duval","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.335,28.056],[-98.237,28.056],[-98.231,27.262],[-98.521,27.268],[-98.521,27.344],[-98.554,27.361],[-98.801,27.355],[-98.801,28.056]]]]}}]}

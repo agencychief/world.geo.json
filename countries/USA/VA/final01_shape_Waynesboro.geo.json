@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Waynesboro","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.865,38.09],[-78.87,38.041],[-78.947,38.052],[-78.93,38.09]]]]}}]}

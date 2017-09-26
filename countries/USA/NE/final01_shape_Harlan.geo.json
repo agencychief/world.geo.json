@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Harlan","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.633,40.352],[-99.178,40.352],[-99.178,40.002],[-99.628,40.002]]]]}}]}

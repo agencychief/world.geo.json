@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Rush","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.322,39.788],[-85.3,39.788],[-85.3,39.525],[-85.3,39.454],[-85.629,39.454],[-85.634,39.7],[-85.634,39.788],[-85.596,39.788]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Yoakum","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-103.056,33.391],[-102.596,33.391],[-102.596,32.958],[-103.067,32.958]]]]}}]}

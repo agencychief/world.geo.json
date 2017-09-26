@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Edwards","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.006,38.572],[-87.956,38.572],[-87.945,38.452],[-87.978,38.38],[-87.945,38.309],[-87.989,38.26],[-88.006,38.26],[-88.153,38.255],[-88.148,38.567]]]]}}]}

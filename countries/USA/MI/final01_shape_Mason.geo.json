@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Mason","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.384,44.181],[-86.045,44.17],[-86.039,43.814],[-86.434,43.819],[-86.516,44.06]]]]}}]}

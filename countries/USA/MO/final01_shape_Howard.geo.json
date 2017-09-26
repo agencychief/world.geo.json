@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Howard","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.847,39.224],[-92.792,39.344],[-92.431,39.251],[-92.557,38.972],[-92.842,38.977],[-92.918,39.032],[-92.935,39.065],[-92.907,39.093],[-92.946,39.12]]]]}}]}

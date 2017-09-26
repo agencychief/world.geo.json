@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Collingsworth","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.093,35.182],[-100,35.182],[-100,35.029],[-100,34.744],[-100.416,34.749],[-100.542,34.749],[-100.537,35.182]]]]}}]}

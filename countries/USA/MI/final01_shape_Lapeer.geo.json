@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lapeer","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.191,43.326],[-83.12,43.326],[-83.12,43.282],[-83,43.282],[-82.983,42.894],[-83.098,42.888],[-83.454,42.883],[-83.46,43.222],[-83.35,43.233],[-83.356,43.321]]]]}}]}

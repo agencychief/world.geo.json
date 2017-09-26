@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lebanon","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.537,40.555],[-76.438,40.495],[-76.153,40.314],[-76.307,40.254],[-76.564,40.199],[-76.679,40.473]]]]}}]}

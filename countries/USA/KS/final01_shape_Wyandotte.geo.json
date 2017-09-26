@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Wyandotte","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.863,39.202],[-94.775,39.202],[-94.742,39.169],[-94.6,39.158],[-94.605,39.114],[-94.605,39.043],[-94.868,39.06],[-94.906,38.988],[-94.901,39.202]]]]}}]}

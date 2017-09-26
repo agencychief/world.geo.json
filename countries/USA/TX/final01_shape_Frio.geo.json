@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Frio","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.905,29.092],[-98.806,29.092],[-98.801,28.648],[-99.398,28.642],[-99.409,28.642],[-99.414,29.092]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ionia","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.075,43.118],[-84.834,43.118],[-84.834,42.773],[-85.13,42.773],[-85.311,42.767],[-85.311,43.118]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lackawanna","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-75.721,41.645],[-75.463,41.639],[-75.442,41.256],[-75.507,41.234],[-75.6,41.163],[-75.644,41.179],[-75.688,41.338],[-75.819,41.387],[-75.836,41.426]]]]}}]}

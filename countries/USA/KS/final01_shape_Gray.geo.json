@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Gray","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.225,38.002],[-100.225,37.915],[-100.214,37.477],[-100.652,37.477],[-100.663,38.002]]]]}}]}

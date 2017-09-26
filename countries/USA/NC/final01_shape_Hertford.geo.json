@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hertford","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.915,36.546],[-76.942,36.414],[-76.778,36.359],[-76.696,36.294],[-76.707,36.244],[-77.21,36.244],[-77.139,36.458],[-77.068,36.485],[-77.167,36.546]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Moody","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.648,44.197],[-96.451,44.197],[-96.451,43.852],[-96.489,43.846],[-96.889,43.846],[-96.889,44.197]]]]}}]}

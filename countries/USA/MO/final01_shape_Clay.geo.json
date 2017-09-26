@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Clay","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.567,39.454],[-94.211,39.454],[-94.211,39.208],[-94.293,39.235],[-94.364,39.164],[-94.408,39.191],[-94.419,39.147],[-94.605,39.114],[-94.6,39.454]]]]}}]}

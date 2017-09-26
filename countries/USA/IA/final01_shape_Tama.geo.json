@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Tama","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.299,42.297],[-92.299,41.864],[-92.765,41.864],[-92.765,42.209],[-92.77,42.297],[-92.535,42.297]]]]}}]}

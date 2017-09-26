@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"ND"},"features":[{"type":"Feature","properties":{"kind":"county","name":"LaMoure","state":"ND"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.034,46.629],[-98.034,46.284],[-99.003,46.284],[-99.036,46.284],[-99.036,46.629],[-98.439,46.629]]]]}}]}

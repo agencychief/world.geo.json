@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Franklin","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.498,38.736],[-95.054,38.736],[-95.065,38.391],[-95.235,38.391],[-95.509,38.391],[-95.504,38.736]]]]}}]}

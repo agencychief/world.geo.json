@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Miami","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.946,40.998],[-85.941,40.653],[-85.864,40.653],[-85.864,40.566],[-85.875,40.566],[-86.165,40.56],[-86.171,40.998]]]]}}]}

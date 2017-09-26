@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Clermont","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.259,39.273],[-83.991,39.257],[-84.051,38.769],[-84.232,38.83],[-84.232,38.873],[-84.32,39.021],[-84.276,39.202],[-84.32,39.224]]]]}}]}

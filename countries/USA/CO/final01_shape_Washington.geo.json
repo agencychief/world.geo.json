@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Washington","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.782,40.44],[-102.804,39.569],[-103.155,39.563],[-103.708,39.569],[-103.708,39.739],[-103.708,40.002],[-103.472,40.002],[-103.467,40.434]]]]}}]}

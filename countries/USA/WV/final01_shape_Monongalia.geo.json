@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WV"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Monongalia","state":"WV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.916,39.722],[-79.763,39.722],[-79.79,39.624],[-79.9,39.481],[-79.894,39.438],[-79.938,39.454],[-80.152,39.613],[-80.398,39.635],[-80.42,39.722]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Benton","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.159,38.534],[-93.066,38.528],[-93.077,38.26],[-93.066,38.063],[-93.411,38.068],[-93.504,38.074],[-93.499,38.2],[-93.521,38.205],[-93.515,38.512]]]]}}]}

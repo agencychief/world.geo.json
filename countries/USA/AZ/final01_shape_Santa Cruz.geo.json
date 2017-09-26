@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AZ"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Santa Cruz","state":"AZ"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-110.79,31.731],[-110.45,31.731],[-110.461,31.332],[-111.074,31.332],[-111.365,31.425],[-111.365,31.523],[-111.162,31.523],[-111.162,31.726]]]]}}]}

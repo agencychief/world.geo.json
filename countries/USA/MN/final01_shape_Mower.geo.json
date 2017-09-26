@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Mower","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.88,43.846],[-92.447,43.836],[-92.447,43.501],[-93.022,43.501],[-93.05,43.501],[-93.044,43.846]]]]}}]}

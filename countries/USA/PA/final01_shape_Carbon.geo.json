@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Carbon","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-75.688,41.13],[-75.65,41.124],[-75.496,40.987],[-75.573,40.949],[-75.474,40.812],[-75.759,40.736],[-75.995,40.911],[-75.732,41.009],[-75.77,41.092]]]]}}]}

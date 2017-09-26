@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lancaster","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.911,41.048],[-96.462,41.048],[-96.462,40.785],[-96.462,40.522],[-96.478,40.522],[-96.911,40.522],[-96.911,41.048]]]]}}]}

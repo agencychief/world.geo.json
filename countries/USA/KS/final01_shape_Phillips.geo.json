@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Phillips","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.124,40.002],[-99.069,40.002],[-99.064,39.569],[-99.6,39.569],[-99.628,39.569],[-99.628,40.002],[-99.178,40.002]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Wayne","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.366,42.351],[-97.015,42.351],[-97.015,42.264],[-96.823,42.264],[-96.823,42.088],[-97.366,42.088]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cedar","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.063,37.898],[-93.811,37.893],[-93.811,37.833],[-93.63,37.827],[-93.614,37.575],[-94.074,37.581],[-94.074,37.641]]]]}}]}

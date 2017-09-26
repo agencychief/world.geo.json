@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"McHenry","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.219,42.494],[-88.203,42.494],[-88.197,42.154],[-88.586,42.154],[-88.707,42.154],[-88.707,42.494],[-88.307,42.494]]]]}}]}

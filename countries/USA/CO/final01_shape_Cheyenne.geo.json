@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cheyenne","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.049,39.049],[-102.043,38.698],[-102.043,38.616],[-103.171,38.611],[-103.166,39.038]]]]}}]}

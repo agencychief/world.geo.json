@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Archer","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.434,33.835],[-98.423,33.835],[-98.423,33.468],[-98.423,33.396],[-98.954,33.396],[-98.954,33.835]]]]}}]}

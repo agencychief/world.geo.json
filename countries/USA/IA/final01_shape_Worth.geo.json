@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Worth","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.022,43.501],[-93.022,43.255],[-93.055,43.255],[-93.499,43.255],[-93.499,43.501],[-93.05,43.501]]]]}}]}

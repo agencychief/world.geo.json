@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Carlisle","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.811,36.946],[-88.811,36.776],[-89.123,36.787],[-89.167,36.798],[-89.178,36.831],[-89.139,36.847],[-89.101,36.946],[-89.074,36.918],[-88.816,36.956]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Dodge","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.887,43.633],[-88.4,43.633],[-88.4,43.545],[-88.416,43.195],[-88.991,43.2],[-89.008,43.2],[-89.008,43.633]]]]}}]}

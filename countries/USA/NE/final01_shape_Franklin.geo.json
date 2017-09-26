@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Franklin","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.113,40.352],[-98.729,40.352],[-98.724,40.002],[-99.124,40.002],[-99.178,40.002],[-99.178,40.352]]]]}}]}

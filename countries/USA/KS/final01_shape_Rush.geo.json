@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Rush","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.042,38.698],[-99.031,38.698],[-99.031,38.348],[-99.359,38.348],[-99.584,38.348],[-99.584,38.698]]]]}}]}

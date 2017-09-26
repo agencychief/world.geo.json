@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Villalba","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.454,18.176],[-66.443,18.176],[-66.432,18.083],[-66.519,18.083],[-66.519,18.154]]]]}}]}

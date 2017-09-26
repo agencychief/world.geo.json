@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Kimble","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.759,30.713],[-99.485,30.713],[-99.485,30.499],[-99.305,30.499],[-99.305,30.285],[-99.754,30.291],[-100.115,30.291],[-100.115,30.713]]]]}}]}

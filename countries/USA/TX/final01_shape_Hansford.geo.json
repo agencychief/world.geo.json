@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hansford","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.085,36.502],[-101.085,36.058],[-101.085,36.053],[-101.621,36.053],[-101.621,36.502]]]]}}]}

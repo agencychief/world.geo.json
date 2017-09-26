@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Racine","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.956,42.844],[-87.825,42.844],[-87.765,42.784],[-87.808,42.669],[-88.186,42.669],[-88.186,42.609],[-88.307,42.609],[-88.307,42.844],[-88.071,42.844]]]]}}]}

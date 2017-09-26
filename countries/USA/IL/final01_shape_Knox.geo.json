@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Knox","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.207,41.152],[-89.983,41.152],[-89.988,40.977],[-89.988,40.714],[-90.443,40.714],[-90.437,41.152]]]]}}]}

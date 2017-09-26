@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Potter","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.66,35.62],[-101.621,35.62],[-101.621,35.182],[-101.988,35.182],[-102.169,35.182],[-102.163,35.62]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Wheeler","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.72,32.312],[-82.655,32.296],[-82.611,32.038],[-82.545,31.962],[-82.644,31.918],[-82.928,32.137],[-82.885,32.197]]]]}}]}

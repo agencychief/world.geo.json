@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Wexford","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.694,44.515],[-85.333,44.515],[-85.333,44.164],[-85.563,44.164],[-85.82,44.164],[-85.815,44.515]]]]}}]}

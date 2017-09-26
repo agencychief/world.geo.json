@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Montgomery","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.408,32.356],[-82.479,31.972],[-82.545,31.962],[-82.611,32.038],[-82.655,32.296]]]]}}]}

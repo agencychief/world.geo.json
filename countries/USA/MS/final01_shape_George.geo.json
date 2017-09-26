@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"George","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.679,30.997],[-88.427,30.997],[-88.411,30.735],[-88.865,30.735],[-88.882,30.735],[-88.887,30.91],[-88.833,30.91],[-88.833,30.997]]]]}}]}

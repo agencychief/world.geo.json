@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Newaygo","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.634,43.814],[-85.563,43.814],[-85.563,43.468],[-85.563,43.293],[-85.793,43.293],[-86.039,43.293],[-86.039,43.814]]]]}}]}

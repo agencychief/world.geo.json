@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Weston","state":"WY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-104.393,44.181],[-104.053,44.181],[-104.053,43.852],[-104.053,43.501],[-104.902,43.501],[-105.077,43.496],[-105.077,44.175]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Florida","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.541,18.401],[-66.536,18.351],[-66.591,18.34],[-66.591,18.39],[-66.541,18.406]]]]}}]}

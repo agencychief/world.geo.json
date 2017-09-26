@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cherry","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.081,42.998],[-101.227,42.998],[-100.197,42.998],[-100.197,42.844],[-100.17,42.088],[-102.043,42.099]]]]}}]}

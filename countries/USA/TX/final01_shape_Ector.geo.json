@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ector","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.289,32.087],[-102.289,31.649],[-102.766,31.649],[-102.799,31.649],[-102.799,32.087]]]]}}]}

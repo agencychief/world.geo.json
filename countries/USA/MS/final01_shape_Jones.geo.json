@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Jones","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.942,31.825],[-88.942,31.436],[-89.145,31.436],[-89.397,31.436],[-89.402,31.797],[-89.315,31.803]]]]}}]}

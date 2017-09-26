@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Andrews","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.996,32.526],[-102.213,32.526],[-102.213,32.087],[-102.799,32.087],[-103.062,32.087],[-103.067,32.52]]]]}}]}

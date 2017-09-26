@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Comanche","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.549,32.263],[-98.33,31.94],[-98.253,31.978],[-98.154,31.841],[-98.461,31.682],[-98.494,31.726],[-98.669,31.699],[-98.927,32.077]]]]}}]}

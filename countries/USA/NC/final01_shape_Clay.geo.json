@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Clay","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.739,35.154],[-83.651,35.154],[-83.52,34.996],[-83.482,34.996],[-83.936,34.985],[-84.007,34.985],[-83.854,35.138]]]]}}]}

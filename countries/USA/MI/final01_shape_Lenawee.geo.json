@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lenawee","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.772,42.083],[-83.761,41.721],[-83.898,41.721],[-84.358,41.705],[-84.363,42.072],[-84.133,42.072]]]]}}]}

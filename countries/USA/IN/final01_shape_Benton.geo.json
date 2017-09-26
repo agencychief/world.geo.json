@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Benton","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.326,40.736],[-87.266,40.736],[-87.096,40.736],[-87.096,40.56],[-87.096,40.478],[-87.452,40.478],[-87.529,40.478],[-87.524,40.736]]]]}}]}

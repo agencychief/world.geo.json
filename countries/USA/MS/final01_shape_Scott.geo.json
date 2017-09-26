@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Scott","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.731,32.635],[-89.731,32.575],[-89.32,32.575],[-89.32,32.224],[-89.457,32.224],[-89.731,32.224],[-89.786,32.586]]]]}}]}

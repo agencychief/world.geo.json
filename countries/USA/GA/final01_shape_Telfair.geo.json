@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Telfair","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.95,32.12],[-82.928,32.137],[-82.644,31.918],[-82.835,31.814],[-82.874,31.781],[-82.994,31.781],[-83.18,31.846],[-83.208,31.901]]]]}}]}

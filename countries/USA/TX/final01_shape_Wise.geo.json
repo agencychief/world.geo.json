@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Wise","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.503,33.435],[-97.382,33.429],[-97.398,32.991],[-97.546,32.997],[-97.924,33.002],[-97.919,33.435]]]]}}]}

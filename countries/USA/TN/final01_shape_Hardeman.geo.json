@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hardeman","state":"TN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.15,35.434],[-89.079,35.434],[-88.844,35.428],[-88.783,35.248],[-88.789,34.996],[-89.019,34.996],[-89.2,34.996],[-89.183,35.434]]]]}}]}

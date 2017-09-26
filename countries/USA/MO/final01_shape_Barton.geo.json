@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Barton","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.49,37.652],[-94.074,37.641],[-94.074,37.581],[-94.079,37.351],[-94.578,37.362],[-94.616,37.362],[-94.616,37.652]]]]}}]}

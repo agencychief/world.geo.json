@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Calumet","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.405,44.246],[-88.192,44.241],[-88.044,44.241],[-88.044,43.89],[-88.164,43.89],[-88.159,43.94],[-88.405,43.94]]]]}}]}

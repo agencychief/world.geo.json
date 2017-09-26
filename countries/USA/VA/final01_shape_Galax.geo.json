@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Galax","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.913,36.65],[-80.929,36.628],[-80.935,36.672],[-80.875,36.694]]]]}}]}

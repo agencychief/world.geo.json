@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Gilchrist","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.879,29.886],[-82.802,29.935],[-82.731,29.858],[-82.66,29.831],[-82.655,29.563],[-82.939,29.59],[-82.972,29.623],[-82.923,29.826],[-82.906,29.826]]]]}}]}

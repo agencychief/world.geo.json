@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Barry","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.13,42.773],[-85.075,42.773],[-85.07,42.422],[-85.3,42.417],[-85.541,42.422],[-85.546,42.767],[-85.311,42.767]]]]}}]}

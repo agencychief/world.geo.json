@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Schleicher","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.69,31.085],[-100.115,31.091],[-100.115,30.713],[-100.959,30.707],[-100.964,31.085]]]]}}]}

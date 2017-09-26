@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Monroe","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.631,39.35],[-86.379,39.339],[-86.368,39.049],[-86.319,39.049],[-86.319,38.988],[-86.68,38.994],[-86.686,39.333]]]]}}]}

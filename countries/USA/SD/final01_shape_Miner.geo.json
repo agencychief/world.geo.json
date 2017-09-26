@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Miner","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.727,44.197],[-97.371,44.197],[-97.371,43.846],[-97.607,43.846],[-97.853,43.852],[-97.848,44.197]]]]}}]}

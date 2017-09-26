@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Meeker","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.534,45.325],[-94.386,45.325],[-94.381,45.281],[-94.26,45.281],[-94.255,44.98],[-94.501,44.98],[-94.501,44.892],[-94.759,44.892],[-94.764,45.325]]]]}}]}

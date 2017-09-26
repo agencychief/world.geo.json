@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Jefferson","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.991,43.2],[-88.537,43.195],[-88.542,42.844],[-88.778,42.844],[-89.013,42.85],[-89.008,43.2]]]]}}]}

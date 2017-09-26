@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Manitowoc","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.885,44.328],[-87.546,44.328],[-87.513,44.191],[-87.644,44.104],[-87.732,43.89],[-87.77,43.89],[-88.044,43.89],[-88.044,44.241],[-87.891,44.241]]]]}}]}

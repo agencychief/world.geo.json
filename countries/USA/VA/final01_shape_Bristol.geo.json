@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Bristol","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.145,36.672],[-82.101,36.644],[-82.145,36.595],[-82.244,36.595],[-82.112,36.639]]]]}}]}

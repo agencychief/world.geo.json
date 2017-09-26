@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NM"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Luna","state":"NM"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-107.608,32.608],[-107.301,32.608],[-107.295,31.786],[-108.21,31.786],[-108.216,31.863],[-108.232,32.515],[-107.925,32.515],[-107.925,32.602]]]]}}]}

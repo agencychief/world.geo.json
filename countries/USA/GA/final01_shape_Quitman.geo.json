@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Quitman","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.07,31.994],[-84.955,31.972],[-84.966,31.951],[-84.906,31.923],[-84.911,31.775],[-85.125,31.781],[-85.141,31.781],[-85.136,31.89]]]]}}]}

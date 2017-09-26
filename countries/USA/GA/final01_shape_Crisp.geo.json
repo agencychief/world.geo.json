@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Crisp","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.964,32.033],[-83.608,32.027],[-83.613,31.852],[-83.613,31.803],[-83.805,31.803],[-83.942,31.846],[-83.925,31.912]]]]}}]}

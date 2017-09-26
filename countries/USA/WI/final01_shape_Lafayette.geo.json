@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lafayette","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.306,42.817],[-89.84,42.811],[-89.84,42.505],[-89.928,42.505],[-90.426,42.505],[-90.426,42.811]]]]}}]}

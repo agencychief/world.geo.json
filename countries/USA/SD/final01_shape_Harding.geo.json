@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Harding","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-104.047,45.944],[-102.996,45.944],[-102.941,45.944],[-102.958,45.21],[-104.042,45.21],[-104.042,45.884]]]]}}]}

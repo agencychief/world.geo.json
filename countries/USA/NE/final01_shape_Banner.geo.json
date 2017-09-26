@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Banner","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-104.053,41.7],[-103.368,41.7],[-103.368,41.437],[-103.379,41.393],[-104.053,41.393],[-104.053,41.563]]]]}}]}

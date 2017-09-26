@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Douglas","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.686,43.501],[-98.116,43.496],[-98.111,43.195],[-98.707,43.37],[-98.707,43.501]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Yauco","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.826,18.171],[-66.799,18.132],[-66.854,17.957],[-66.886,18.023],[-66.925,18.149],[-66.859,18.138],[-66.837,18.171]]]]}}]}

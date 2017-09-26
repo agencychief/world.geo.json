@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Naguabo","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-65.824,18.275],[-65.769,18.28],[-65.682,18.253],[-65.66,18.209],[-65.742,18.176],[-65.824,18.198]]]]}}]}

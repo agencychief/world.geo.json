@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Marion","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.637,32.537],[-84.446,32.564],[-84.391,32.416],[-84.429,32.164],[-84.429,32.137],[-84.528,32.137],[-84.659,32.235]]]]}}]}

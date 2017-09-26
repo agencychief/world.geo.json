@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Garfield","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.985,36.595],[-97.464,36.595],[-97.459,36.162],[-98.094,36.168],[-98.105,36.162],[-98.105,36.595]]]]}}]}

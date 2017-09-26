@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Craighead","state":"AR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.29,35.998],[-90.29,35.702],[-90.93,35.708],[-91.034,35.708],[-91.034,35.883],[-90.876,35.883],[-90.854,35.971],[-90.388,35.965],[-90.377,35.998]]]]}}]}

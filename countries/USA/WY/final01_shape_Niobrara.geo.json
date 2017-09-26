@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Niobrara","state":"WY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-104.053,43.501],[-104.053,42.614],[-104.656,42.609],[-104.891,42.609],[-104.902,43.501]]]]}}]}

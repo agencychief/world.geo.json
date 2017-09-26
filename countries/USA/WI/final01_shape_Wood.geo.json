@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Wood","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.207,44.684],[-89.846,44.684],[-89.846,44.509],[-89.725,44.509],[-89.725,44.246],[-90.081,44.246],[-90.311,44.246],[-90.317,44.684]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Bond","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.249,39.027],[-89.254,38.742],[-89.594,38.742],[-89.599,38.742],[-89.638,38.999],[-89.588,38.999],[-89.588,39.027]]]]}}]}

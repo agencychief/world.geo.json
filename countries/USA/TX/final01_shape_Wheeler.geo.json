@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Wheeler","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.542,35.62],[-100,35.62],[-100,35.423],[-100,35.182],[-100.537,35.182]]]]}}]}

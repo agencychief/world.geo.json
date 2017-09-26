@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Trujillo Alto","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-65.999,18.379],[-65.945,18.291],[-65.983,18.313],[-66.021,18.308],[-66.043,18.313],[-66.038,18.368]]]]}}]}

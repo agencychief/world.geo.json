@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Coryell","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.689,31.709],[-97.42,31.321],[-97.908,31.069],[-98.182,31.463],[-97.766,31.671]]]]}}]}

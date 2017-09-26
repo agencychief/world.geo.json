@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Portage","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.347,44.679],[-89.222,44.679],[-89.227,44.246],[-89.599,44.246],[-89.725,44.246],[-89.725,44.509],[-89.846,44.509],[-89.846,44.684]]]]}}]}

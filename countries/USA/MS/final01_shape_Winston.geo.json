@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Winston","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.09,33.287],[-88.811,33.287],[-88.811,32.925],[-89.156,32.931],[-89.32,32.931],[-89.32,33.106],[-89.216,33.112],[-89.216,33.199],[-89.106,33.199]]]]}}]}

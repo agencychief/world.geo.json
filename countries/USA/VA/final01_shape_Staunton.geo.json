@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Staunton","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.04,38.194],[-79.012,38.183],[-79.029,38.134],[-79.106,38.139],[-79.095,38.183]]]]}}]}

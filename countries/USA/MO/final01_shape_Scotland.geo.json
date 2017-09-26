@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Scotland","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.944,40.604],[-91.949,40.303],[-92.141,40.303],[-92.349,40.303],[-92.349,40.347],[-92.349,40.599],[-92.179,40.599]]]]}}]}

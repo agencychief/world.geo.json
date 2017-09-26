@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Henry","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.795,38.561],[-93.51,38.556],[-93.521,38.205],[-93.773,38.205],[-94.052,38.216],[-94.074,38.216],[-94.063,38.567]]]]}}]}

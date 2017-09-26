@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Garza","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.112,33.396],[-101.041,33.396],[-101.041,32.969],[-101.172,32.964],[-101.555,32.964],[-101.555,33.396]]]]}}]}

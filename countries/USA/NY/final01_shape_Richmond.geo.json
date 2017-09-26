@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Richmond","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-74.089,40.648],[-74.067,40.582],[-74.248,40.495],[-74.187,40.642]]]]}}]}

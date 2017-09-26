@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ashe","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.351,36.573],[-81.252,36.365],[-81.357,36.365],[-81.368,36.283],[-81.411,36.294],[-81.477,36.239],[-81.734,36.392],[-81.68,36.59]]]]}}]}

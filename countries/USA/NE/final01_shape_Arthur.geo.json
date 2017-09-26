@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Arthur","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.424,41.743],[-101.408,41.743],[-101.408,41.393],[-101.983,41.393],[-101.988,41.743]]]]}}]}

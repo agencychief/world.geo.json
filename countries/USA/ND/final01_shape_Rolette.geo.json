@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"ND"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Rolette","state":"ND"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.524,49],[-99.524,48.721],[-99.491,48.721],[-99.491,48.546],[-99.617,48.546],[-100.148,48.546],[-100.148,48.721],[-100.181,48.721],[-100.181,49]]]]}}]}

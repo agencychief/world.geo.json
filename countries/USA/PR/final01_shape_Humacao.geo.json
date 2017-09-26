@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Humacao","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-65.824,18.198],[-65.742,18.176],[-65.797,18.072],[-65.879,18.116]]]]}}]}

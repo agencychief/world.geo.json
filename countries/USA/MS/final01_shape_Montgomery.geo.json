@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Montgomery","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.506,33.676],[-89.506,33.462],[-89.38,33.462],[-89.451,33.435],[-89.451,33.287],[-89.643,33.287],[-89.649,33.402],[-89.786,33.418],[-89.786,33.676]]]]}}]}

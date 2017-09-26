@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Massac","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.931,37.301],[-88.909,37.334],[-88.712,37.334],[-88.493,37.159],[-88.487,37.066],[-88.564,37.082],[-88.926,37.225]]]]}}]}

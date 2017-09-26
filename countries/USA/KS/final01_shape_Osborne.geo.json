@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Osborne","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.85,39.569],[-98.505,39.569],[-98.488,39.569],[-98.488,39.218],[-98.488,39.131],[-99.036,39.131],[-99.047,39.131],[-99.042,39.569]]]]}}]}

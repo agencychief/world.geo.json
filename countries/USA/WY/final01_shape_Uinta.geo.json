@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Uinta","state":"WY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-111.047,41.579],[-110.05,41.579],[-110.05,40.998],[-111.047,40.998],[-111.047,41.25]]]]}}]}

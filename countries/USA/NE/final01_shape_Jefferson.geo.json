@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Jefferson","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.366,40.352],[-96.917,40.352],[-96.917,40.002],[-97.371,40.002]]]]}}]}

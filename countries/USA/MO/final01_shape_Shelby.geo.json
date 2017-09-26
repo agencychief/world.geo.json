@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Shelby","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.998,39.952],[-91.839,39.947],[-91.845,39.657],[-92.184,39.662],[-92.184,39.602],[-92.299,39.607],[-92.288,39.952]]]]}}]}

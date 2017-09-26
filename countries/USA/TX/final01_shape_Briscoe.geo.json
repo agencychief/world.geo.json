@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Briscoe","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.473,34.749],[-101.09,34.749],[-100.948,34.749],[-100.948,34.311],[-101.473,34.311]]]]}}]}

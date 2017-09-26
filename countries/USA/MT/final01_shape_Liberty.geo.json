@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MT"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Liberty","state":"MT"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-110.746,49],[-110.757,48.217],[-110.828,48.217],[-110.828,48.135],[-111.409,48.129],[-111.409,48.217],[-111.277,48.217],[-111.272,48.995]]]]}}]}

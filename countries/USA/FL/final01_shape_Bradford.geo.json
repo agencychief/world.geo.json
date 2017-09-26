@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Bradford","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.145,30.143],[-82.052,30.143],[-82.047,29.716],[-82.052,29.716],[-82.134,29.836],[-82.282,29.847],[-82.397,29.886],[-82.419,29.924],[-82.31,29.957]]]]}}]}

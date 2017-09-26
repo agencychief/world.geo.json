@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Putnam","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-73.53,41.53],[-73.546,41.365],[-73.662,41.354],[-73.985,41.322],[-73.946,41.393],[-73.979,41.437],[-73.935,41.486]]]]}}]}

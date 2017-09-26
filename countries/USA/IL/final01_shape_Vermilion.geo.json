@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Vermilion","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.841,40.489],[-87.529,40.489],[-87.529,40.15],[-87.535,39.881],[-87.94,39.881],[-87.934,40.484]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Fayette","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.139,39.218],[-88.805,39.218],[-88.805,38.912],[-88.696,38.917],[-88.696,38.824],[-89.139,38.824],[-89.139,38.736],[-89.254,38.742],[-89.249,39.218]]]]}}]}

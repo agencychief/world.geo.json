@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Greeley","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.567,38.698],[-101.567,38.265],[-102.043,38.26],[-102.043,38.698]]]]}}]}

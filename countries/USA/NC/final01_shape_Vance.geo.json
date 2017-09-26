@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Vance","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.322,36.546],[-78.278,36.305],[-78.306,36.266],[-78.377,36.233],[-78.421,36.162],[-78.498,36.173],[-78.509,36.453],[-78.459,36.54]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Rockland","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-73.985,41.322],[-73.946,41.289],[-73.968,41.25],[-73.886,41.141],[-73.891,40.998],[-74.215,41.135],[-74.237,41.141],[-73.979,41.327]]]]}}]}

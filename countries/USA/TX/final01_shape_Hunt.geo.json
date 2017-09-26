@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hunt","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.859,33.407],[-95.859,33.221],[-95.865,32.98],[-95.947,32.98],[-95.986,32.876],[-95.936,32.838],[-96.079,32.838],[-96.298,32.843],[-96.298,33.353]]]]}}]}

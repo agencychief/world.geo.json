@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Wayne","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.856,40.007],[-84.813,40.007],[-84.813,39.728],[-85.037,39.717],[-85.185,39.717],[-85.185,39.788],[-85.223,39.788],[-85.201,40.007]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Jenkins","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.86,32.953],[-81.767,32.909],[-81.866,32.679],[-81.838,32.652],[-82.003,32.608],[-82.085,32.663],[-82.145,32.81],[-82.079,32.914]]]]}}]}

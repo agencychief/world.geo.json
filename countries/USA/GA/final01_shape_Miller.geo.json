@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Miller","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.643,31.26],[-84.539,31.255],[-84.544,31.08],[-84.73,31.069],[-84.922,31.074],[-84.917,31.255]]]]}}]}

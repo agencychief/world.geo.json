@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Montgomery","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.921,40.215],[-86.697,40.215],[-86.697,39.925],[-86.697,39.865],[-87.009,39.865],[-87.091,39.865],[-87.091,40.215]]]]}}]}

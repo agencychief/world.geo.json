@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Stephenson","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.928,42.505],[-89.84,42.505],[-89.402,42.499],[-89.397,42.203],[-89.917,42.198]]]]}}]}

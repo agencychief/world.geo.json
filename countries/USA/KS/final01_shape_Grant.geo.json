@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Grant","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.172,37.734],[-101.09,37.734],[-101.09,37.389],[-101.528,37.389],[-101.528,37.734]]]]}}]}

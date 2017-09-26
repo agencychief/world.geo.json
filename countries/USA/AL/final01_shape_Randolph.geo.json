@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Randolph","state":"AL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.645,33.495],[-85.305,33.484],[-85.234,33.128],[-85.234,33.106],[-85.656,33.106]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Bent","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.744,38.265],[-102.749,37.641],[-103.078,37.641],[-103.407,37.641],[-103.401,38.265]]]]}}]}

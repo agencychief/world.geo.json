@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"LA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"St. Helena","state":"LA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.569,30.997],[-90.569,30.652],[-90.744,30.652],[-90.908,30.647],[-90.848,30.718],[-90.865,30.943],[-90.826,30.997]]]]}}]}

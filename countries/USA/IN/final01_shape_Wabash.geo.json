@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Wabash","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.683,41.048],[-85.683,41.004],[-85.645,41.004],[-85.639,40.653],[-85.864,40.653],[-85.941,40.653],[-85.946,41.042]]]]}}]}

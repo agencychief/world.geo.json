@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"ND"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Slope","state":"ND"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-103.231,46.629],[-102.93,46.629],[-102.925,46.284],[-102.996,46.278],[-104.047,46.278],[-104.047,46.541],[-103.801,46.541],[-103.801,46.629],[-103.609,46.629]]]]}}]}

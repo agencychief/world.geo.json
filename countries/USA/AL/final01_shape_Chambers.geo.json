@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Chambers","state":"AL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.404,33.106],[-85.234,33.106],[-85.185,32.871],[-85.13,32.745],[-85.185,32.745],[-85.596,32.728],[-85.596,33.106]]]]}}]}

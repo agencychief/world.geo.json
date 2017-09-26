@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Crook","state":"WY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-105.088,45.002],[-105.039,45.002],[-104.058,44.997],[-104.058,44.569],[-104.053,44.181],[-105.077,44.175]]]]}}]}

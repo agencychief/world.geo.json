@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hart","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.049,34.497],[-82.879,34.475],[-82.775,34.289],[-82.978,34.212],[-83.076,34.229],[-83.115,34.273],[-83.093,34.415]]]]}}]}

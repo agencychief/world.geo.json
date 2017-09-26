@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Petersburg","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.402,37.241],[-77.375,37.247],[-77.331,37.197],[-77.397,37.17],[-77.457,37.187],[-77.446,37.225],[-77.402,37.236]]]]}}]}

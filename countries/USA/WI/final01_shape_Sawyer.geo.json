@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Sawyer","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.303,46.158],[-90.925,46.152],[-90.925,45.982],[-90.678,45.982],[-90.678,45.637],[-91.538,45.637],[-91.549,46.158]]]]}}]}

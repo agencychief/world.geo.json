@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Rice","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.302,44.542],[-93.28,44.542],[-93.28,44.471],[-93.039,44.471],[-93.039,44.197],[-93.406,44.197],[-93.526,44.197],[-93.526,44.542]]]]}}]}

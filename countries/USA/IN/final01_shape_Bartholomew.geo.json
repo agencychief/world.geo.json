@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Bartholomew","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.798,39.35],[-85.683,39.35],[-85.689,39.131],[-85.798,39.131],[-85.798,39.071],[-85.859,39.043],[-86.078,39.049],[-86.083,39.344],[-85.952,39.35]]]]}}]}

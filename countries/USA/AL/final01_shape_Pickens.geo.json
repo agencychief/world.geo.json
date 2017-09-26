@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Pickens","state":"AL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.274,33.533],[-87.841,33.522],[-87.836,33.156],[-88.044,33.035],[-88.148,33.04],[-88.17,32.997],[-88.34,32.991],[-88.307,33.287]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Sanborn","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.209,44.197],[-97.848,44.197],[-97.853,43.852],[-98.204,43.852],[-98.324,43.852],[-98.33,44.197]]]]}}]}

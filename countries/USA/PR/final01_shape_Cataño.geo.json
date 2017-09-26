@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cataño","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.125,18.461],[-66.109,18.439],[-66.131,18.422],[-66.131,18.422],[-66.169,18.433],[-66.142,18.461]]]]}}]}

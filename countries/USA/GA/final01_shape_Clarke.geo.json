@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Clarke","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.361,34.043],[-83.257,33.999],[-83.279,33.95],[-83.241,33.906],[-83.273,33.846],[-83.536,33.966]]]]}}]}

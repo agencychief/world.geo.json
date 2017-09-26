@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Emporia","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.561,36.699],[-77.512,36.715],[-77.528,36.672]]]]}}]}

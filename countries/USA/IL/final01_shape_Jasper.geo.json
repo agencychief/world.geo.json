@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Jasper","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.006,39.175],[-87.951,39.175],[-87.945,38.852],[-88.257,38.846],[-88.362,38.852],[-88.362,39.169]]]]}}]}

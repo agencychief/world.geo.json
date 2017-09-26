@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Meade","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.214,37.477],[-100.11,37.477],[-100.088,37],[-100.635,37],[-100.652,37.477]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Thomas","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.844,42.088],[-100.268,42.088],[-100.263,41.738],[-100.844,41.738]]]]}}]}

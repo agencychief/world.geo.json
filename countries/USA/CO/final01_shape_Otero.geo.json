@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Otero","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-103.401,38.265],[-103.407,37.641],[-104.058,37.647],[-104.058,37.734],[-104.058,38.145],[-103.62,38.112],[-103.62,38.172],[-103.511,38.172],[-103.5,38.265]]]]}}]}

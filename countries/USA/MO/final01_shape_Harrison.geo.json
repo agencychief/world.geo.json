@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Harrison","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.773,40.577],[-93.762,40.264],[-93.762,40.133],[-94.216,40.139],[-94.216,40.385],[-94.233,40.571],[-94.014,40.571]]]]}}]}

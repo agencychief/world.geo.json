@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Red Willow","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.383,40.352],[-100.197,40.352],[-100.192,40.002],[-100.74,40.002],[-100.761,40.002],[-100.756,40.352]]]]}}]}

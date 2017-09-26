@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Jefferson","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.465,39.421],[-95.18,39.421],[-95.186,39.043],[-95.498,39.054],[-95.597,39.071],[-95.569,39.421]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Knox","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.141,40.303],[-91.949,40.303],[-91.949,40.259],[-91.954,39.947],[-92.288,39.952],[-92.343,39.952],[-92.349,40.303]]]]}}]}

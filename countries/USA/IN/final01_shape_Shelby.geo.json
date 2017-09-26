@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Shelby","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.634,39.7],[-85.629,39.454],[-85.629,39.35],[-85.798,39.35],[-85.952,39.35],[-85.952,39.695]]]]}}]}

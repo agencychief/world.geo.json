@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Winkler","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-103.062,32.087],[-102.799,32.087],[-102.799,31.649],[-103.33,31.649],[-103.325,32],[-103.067,32]]]]}}]}
