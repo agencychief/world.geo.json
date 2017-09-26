@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Anderson","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.235,38.391],[-95.065,38.391],[-95.076,38.035],[-95.465,38.041],[-95.52,38.041],[-95.509,38.391]]]]}}]}

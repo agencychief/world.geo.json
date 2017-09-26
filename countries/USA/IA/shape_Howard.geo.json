@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Howard","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.08,43.501],[-92.08,43.211],[-92.256,43.211],[-92.557,43.211],[-92.551,43.501],[-92.447,43.501]]]]}}]}

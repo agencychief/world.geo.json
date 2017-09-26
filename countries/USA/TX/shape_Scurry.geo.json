@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Scurry","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.041,32.969],[-100.657,32.964],[-100.663,32.526],[-101.172,32.526],[-101.172,32.964]]]]}}]}

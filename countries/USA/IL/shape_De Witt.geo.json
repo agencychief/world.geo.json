@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"De Witt","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.92,40.281],[-88.575,40.281],[-88.69,40.144],[-88.69,40.1],[-88.745,40.1],[-88.745,40.056],[-88.805,40.056],[-89.145,40.051],[-89.15,40.281]]]]}}]}

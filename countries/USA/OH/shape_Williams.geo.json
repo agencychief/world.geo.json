@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Williams","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.402,41.705],[-84.38,41.513],[-84.341,41.513],[-84.341,41.486],[-84.341,41.426],[-84.802,41.426],[-84.807,41.53],[-84.807,41.694]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Kiowa","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.562,37.734],[-99.014,37.734],[-99.014,37.471],[-99.014,37.384],[-99.546,37.384],[-99.556,37.466]]]]}}]}

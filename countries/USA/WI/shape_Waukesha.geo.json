@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Waukesha","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.537,43.195],[-88.416,43.195],[-88.066,43.195],[-88.071,42.844],[-88.307,42.844],[-88.542,42.844]]]]}}]}

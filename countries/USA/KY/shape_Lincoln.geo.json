@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lincoln","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.659,37.636],[-84.446,37.488],[-84.5,37.329],[-84.555,37.356],[-84.67,37.274],[-84.719,37.236],[-84.725,37.362],[-84.851,37.428],[-84.845,37.548]]]]}}]}

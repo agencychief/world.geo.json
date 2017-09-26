@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Kit Carson","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.426,39.569],[-102.049,39.574],[-102.049,39.569],[-102.049,39.131],[-102.049,39.049],[-103.166,39.038],[-103.155,39.563],[-102.804,39.569]]]]}}]}

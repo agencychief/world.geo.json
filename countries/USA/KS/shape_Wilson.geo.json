@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Wilson","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.92,37.734],[-95.525,37.734],[-95.525,37.384],[-95.964,37.389],[-95.964,37.603],[-95.964,37.734]]]]}}]}

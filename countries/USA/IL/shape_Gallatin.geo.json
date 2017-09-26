@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Gallatin","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.137,37.909],[-88.055,37.882],[-88.028,37.8],[-88.159,37.663],[-88.132,37.575],[-88.378,37.597],[-88.373,37.909],[-88.373,37.909]]]]}}]}

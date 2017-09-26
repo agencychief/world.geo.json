@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WV"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Brooke","state":"WV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.519,40.401],[-80.519,40.16],[-80.683,40.188],[-80.601,40.319],[-80.634,40.396]]]]}}]}

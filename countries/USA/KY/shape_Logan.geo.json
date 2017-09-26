@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Logan","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.954,37.072],[-86.943,37.072],[-86.675,37],[-86.609,36.885],[-86.691,36.841],[-86.762,36.65],[-87.058,36.644],[-87.053,37.06]]]]}}]}

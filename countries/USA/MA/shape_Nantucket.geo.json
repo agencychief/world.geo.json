@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Nantucket","state":"MA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-70.123,41.294],[-70.03,41.338],[-70.047,41.393],[-69.959,41.267],[-70.118,41.245],[-70.277,41.311]]]]}}]}

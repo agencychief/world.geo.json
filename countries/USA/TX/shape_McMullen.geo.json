@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"McMullen","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.582,28.642],[-98.335,28.642],[-98.335,28.615],[-98.335,28.056],[-98.801,28.056],[-98.801,28.637]]]]}}]}

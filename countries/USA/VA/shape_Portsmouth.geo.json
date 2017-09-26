@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Portsmouth","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.345,36.918],[-76.29,36.819],[-76.29,36.798],[-76.378,36.787],[-76.405,36.869],[-76.422,36.869],[-76.405,36.896]]]]}}]}

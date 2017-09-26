@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Bleckley","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.224,32.586],[-83.137,32.422],[-83.175,32.454],[-83.345,32.274],[-83.498,32.4],[-83.498,32.454]]]]}}]}

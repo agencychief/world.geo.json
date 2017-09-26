@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Clark","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.035,40.04],[-83.514,40.013],[-83.586,39.766],[-83.646,39.772],[-84.029,39.848],[-84.051,39.848],[-84.051,39.881]]]]}}]}

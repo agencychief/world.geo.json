@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Long","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.811,32],[-81.745,31.962],[-81.751,31.863],[-81.641,31.764],[-81.493,31.699],[-81.565,31.578],[-81.663,31.54],[-81.97,31.792],[-81.822,32.016]]]]}}]}

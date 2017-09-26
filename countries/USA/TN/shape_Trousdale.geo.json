@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Trousdale","state":"TN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.231,36.485],[-86.171,36.442],[-85.979,36.425],[-85.985,36.398],[-86.138,36.294],[-86.231,36.349],[-86.264,36.299],[-86.286,36.349],[-86.269,36.453]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Grant","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.65,37],[-97.464,37],[-97.464,36.595],[-97.985,36.595],[-98.105,36.595],[-98.111,37],[-97.804,37]]]]}}]}

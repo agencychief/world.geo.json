@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Decatur","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.74,40.002],[-100.192,40.002],[-100.175,40.002],[-100.181,39.569],[-100.668,39.569],[-100.718,39.569],[-100.74,39.569]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hays","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.171,30.357],[-97.711,30.023],[-97.891,29.886],[-97.897,29.858],[-97.875,29.858],[-98.001,29.754],[-98.028,29.847],[-98.297,30.039]]]]}}]}

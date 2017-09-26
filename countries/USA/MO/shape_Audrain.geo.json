@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Audrain","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.311,39.35],[-91.719,39.339],[-91.44,39.317],[-91.407,39.142],[-91.626,39.147],[-91.631,39.06],[-92.108,39.065],[-92.102,39.24],[-92.316,39.246]]]]}}]}

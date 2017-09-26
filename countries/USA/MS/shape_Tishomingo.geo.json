@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Tishomingo","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.252,34.996],[-88.203,34.996],[-88.099,34.892],[-88.142,34.58],[-88.159,34.464],[-88.329,34.464],[-88.329,34.738],[-88.367,34.755],[-88.362,34.996]]]]}}]}

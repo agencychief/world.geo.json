@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Sedgwick","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.624,41.004],[-102.054,41.004],[-102.054,40.752],[-102.328,40.746],[-102.651,40.752],[-102.651,41.004]]]]}}]}

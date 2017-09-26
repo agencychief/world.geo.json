@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Perkins","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.624,45.944],[-101.999,45.944],[-101.999,45.473],[-101.999,45.04],[-102.043,45.04],[-102.958,45.04],[-102.958,45.21],[-102.941,45.944]]]]}}]}

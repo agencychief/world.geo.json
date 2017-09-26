@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lincoln","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.445,44.63],[-96.095,44.63],[-96.079,44.197],[-96.243,44.197],[-96.451,44.197],[-96.451,44.542],[-96.451,44.63]]]]}}]}

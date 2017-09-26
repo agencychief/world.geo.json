@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Stevens","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.528,37.389],[-101.09,37.389],[-101.068,37.389],[-101.068,37],[-101.555,36.995],[-101.555,37.389]]]]}}]}

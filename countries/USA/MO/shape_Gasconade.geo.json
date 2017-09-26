@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Gasconade","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.418,38.709],[-91.368,38.698],[-91.368,38.211],[-91.533,38.211],[-91.533,38.15],[-91.631,38.156],[-91.642,38.287],[-91.642,38.704],[-91.555,38.676]]]]}}]}

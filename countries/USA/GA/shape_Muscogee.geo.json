@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Muscogee","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.026,32.608],[-84.692,32.586],[-84.67,32.564],[-84.692,32.52],[-84.774,32.422],[-84.982,32.372],[-84.96,32.422],[-84.999,32.509],[-85.081,32.608]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Harris","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.862,32.871],[-84.703,32.843],[-84.692,32.586],[-85.026,32.608],[-85.081,32.608],[-85.13,32.745],[-85.185,32.871],[-84.862,32.871]]]]}}]}

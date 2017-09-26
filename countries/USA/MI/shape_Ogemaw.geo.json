@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ogemaw","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.925,44.509],[-83.887,44.509],[-83.887,44.164],[-84.166,44.164],[-84.248,44.164],[-84.369,44.159],[-84.369,44.509]]]]}}]}

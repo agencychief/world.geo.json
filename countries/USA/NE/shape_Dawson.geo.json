@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Dawson","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.995,41.048],[-99.425,41.048],[-99.419,40.67],[-99.644,40.686],[-99.984,40.697],[-100.225,40.703],[-100.225,41.048]]]]}}]}

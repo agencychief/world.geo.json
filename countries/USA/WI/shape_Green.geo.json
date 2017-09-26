@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Green","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.84,42.855],[-89.369,42.844],[-89.364,42.499],[-89.402,42.499],[-89.84,42.505],[-89.84,42.811]]]]}}]}

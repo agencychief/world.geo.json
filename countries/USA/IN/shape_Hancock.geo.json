@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hancock","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.618,39.947],[-85.574,39.947],[-85.596,39.788],[-85.634,39.788],[-85.634,39.7],[-85.952,39.695],[-85.935,39.925],[-85.864,39.941]]]]}}]}

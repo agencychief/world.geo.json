@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Brown","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.914,40.106],[-90.695,40.106],[-90.673,40.045],[-90.607,40.029],[-90.607,39.98],[-90.514,39.985],[-90.585,39.876],[-90.574,39.837],[-90.919,39.843]]]]}}]}

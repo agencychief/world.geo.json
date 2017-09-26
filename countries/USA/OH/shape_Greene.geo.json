@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Greene","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.029,39.848],[-83.646,39.772],[-83.651,39.717],[-83.668,39.553],[-83.975,39.569],[-83.975,39.569],[-84.112,39.58],[-84.095,39.837],[-84.051,39.848]]]]}}]}

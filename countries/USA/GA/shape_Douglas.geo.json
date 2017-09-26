@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Douglas","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.725,33.807],[-84.621,33.807],[-84.577,33.742],[-84.659,33.659],[-84.752,33.632],[-84.807,33.572],[-84.906,33.572],[-84.9,33.78]]]]}}]}

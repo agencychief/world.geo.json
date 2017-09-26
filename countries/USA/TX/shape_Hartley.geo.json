@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hartley","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.3,36.053],[-102.163,36.053],[-102.163,35.626],[-103.04,35.62],[-103.04,35.741],[-103.04,36.053]]]]}}]}

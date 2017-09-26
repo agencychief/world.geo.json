@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lyon","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.336,38.742],[-95.947,38.736],[-95.953,38.435],[-95.958,38.172],[-96.281,38.172],[-96.358,38.172],[-96.352,38.523],[-96.352,38.742]]]]}}]}

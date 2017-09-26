@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Decatur","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.3,39.454],[-85.294,39.268],[-85.442,39.197],[-85.568,39.131],[-85.689,39.131],[-85.683,39.35],[-85.629,39.35],[-85.629,39.454]]]]}}]}

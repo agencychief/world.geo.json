@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Martin","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.08,26.972],[-80.886,26.961],[-80.677,27.12],[-80.677,27.207],[-80.283,27.207],[-80.283,27.262],[-80.201,27.262]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hamilton","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.826,41.048],[-97.826,40.697],[-98.28,40.697],[-98.28,40.697],[-98.28,40.873],[-97.826,41.174]]]]}}]}

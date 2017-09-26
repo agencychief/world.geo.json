@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hamilton","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.007,32.016],[-97.766,31.671],[-98.182,31.463],[-98.269,31.414],[-98.461,31.682],[-98.154,31.841],[-98.209,31.918]]]]}}]}

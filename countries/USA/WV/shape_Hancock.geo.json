@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WV"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hancock","state":"WV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.519,40.637],[-80.519,40.478],[-80.519,40.401],[-80.634,40.396],[-80.595,40.473],[-80.666,40.582],[-80.628,40.62]]]]}}]}

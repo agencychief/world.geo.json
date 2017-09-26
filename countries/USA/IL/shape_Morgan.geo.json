@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Morgan","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.585,39.876],[-89.994,39.87],[-89.928,39.52],[-90.153,39.52],[-90.3,39.52],[-90.3,39.635],[-90.372,39.667],[-90.372,39.755],[-90.602,39.788],[-90.574,39.837]]]]}}]}

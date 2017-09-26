@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cannon","state":"TN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.017,35.96],[-85.886,35.839],[-85.99,35.735],[-85.985,35.658],[-86.089,35.648],[-86.209,35.702],[-86.154,35.954]]]]}}]}

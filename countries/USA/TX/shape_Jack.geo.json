@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Jack","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.423,33.468],[-97.979,33.468],[-97.979,33.435],[-97.919,33.435],[-97.924,33.002],[-98.056,33.002],[-98.056,33.002],[-98.428,33.008],[-98.423,33.396]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Dickens","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.904,33.835],[-100.52,33.835],[-100.515,33.396],[-100.816,33.396],[-101.041,33.396],[-101.041,33.835]]]]}}]}

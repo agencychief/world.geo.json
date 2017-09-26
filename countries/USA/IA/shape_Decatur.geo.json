@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Decatur","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.663,40.9],[-93.559,40.9],[-93.559,40.582],[-93.773,40.577],[-94.014,40.571],[-94.014,40.894]]]]}}]}

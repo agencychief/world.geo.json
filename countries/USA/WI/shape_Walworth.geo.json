@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Walworth","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.548,42.844],[-88.542,42.844],[-88.307,42.844],[-88.307,42.609],[-88.307,42.494],[-88.707,42.494],[-88.778,42.494],[-88.778,42.844]]]]}}]}

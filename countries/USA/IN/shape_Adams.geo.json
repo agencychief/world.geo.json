@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Adams","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.878,40.922],[-84.802,40.922],[-84.802,40.73],[-84.802,40.571],[-85.07,40.566],[-85.075,40.916]]]]}}]}

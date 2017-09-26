@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Winston","state":"AL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.633,34.306],[-87.529,34.306],[-87.107,34.3],[-87.113,33.993],[-87.151,33.993],[-87.628,34.004],[-87.639,34.004]]]]}}]}

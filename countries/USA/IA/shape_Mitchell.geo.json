@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Mitchell","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.551,43.501],[-92.557,43.211],[-92.798,43.211],[-93.022,43.211],[-93.022,43.255],[-93.022,43.501]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Champaign","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.11,40.401],[-87.934,40.401],[-87.94,39.881],[-88.126,39.881],[-88.46,39.881],[-88.46,40.281],[-88.46,40.401]]]]}}]}

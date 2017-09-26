@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Jackson","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.115,43.846],[-94.857,43.846],[-94.852,43.846],[-94.852,43.501],[-94.918,43.501],[-95.093,43.501],[-95.388,43.501],[-95.454,43.501],[-95.454,43.846]]]]}}]}

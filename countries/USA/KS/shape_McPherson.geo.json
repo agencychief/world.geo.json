@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"McPherson","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.924,38.611],[-97.371,38.611],[-97.371,38.172],[-97.7,38.172],[-97.924,38.172],[-97.924,38.523]]]]}}]}

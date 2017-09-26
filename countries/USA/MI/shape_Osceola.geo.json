@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Osceola","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.486,44.164],[-85.333,44.164],[-85.086,44.164],[-85.086,43.814],[-85.541,43.814],[-85.563,43.814],[-85.563,44.164]]]]}}]}

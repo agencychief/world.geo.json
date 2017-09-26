@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Glascock","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.688,33.27],[-82.561,33.325],[-82.43,33.276],[-82.583,33.172],[-82.578,33.123],[-82.66,33.128],[-82.742,33.172],[-82.748,33.238],[-82.753,33.254]]]]}}]}

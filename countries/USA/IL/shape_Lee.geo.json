@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lee","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.545,41.902],[-88.942,41.891],[-88.937,41.628],[-89.167,41.628],[-89.167,41.584],[-89.254,41.584],[-89.632,41.584],[-89.632,41.902]]]]}}]}

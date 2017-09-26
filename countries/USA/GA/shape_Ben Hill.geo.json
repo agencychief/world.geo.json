@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ben Hill","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.482,31.846],[-83.18,31.846],[-82.994,31.781],[-83,31.671],[-83.268,31.655],[-83.268,31.682],[-83.328,31.682],[-83.339,31.77],[-83.454,31.759]]]]}}]}

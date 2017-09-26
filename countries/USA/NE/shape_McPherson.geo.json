@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"McPherson","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.408,41.743],[-100.844,41.738],[-100.712,41.738],[-100.712,41.393],[-101.271,41.393],[-101.364,41.393],[-101.408,41.393]]]]}}]}

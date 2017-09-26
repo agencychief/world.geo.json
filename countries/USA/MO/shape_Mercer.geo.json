@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Mercer","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.526,40.582],[-93.373,40.582],[-93.368,40.385],[-93.368,40.264],[-93.762,40.264],[-93.773,40.577],[-93.559,40.582]]]]}}]}

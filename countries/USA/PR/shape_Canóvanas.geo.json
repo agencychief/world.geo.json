@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Canóvanas","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-65.912,18.401],[-65.868,18.412],[-65.868,18.379],[-65.868,18.297],[-65.835,18.275],[-65.851,18.253],[-65.917,18.269],[-65.917,18.401]]]]}}]}

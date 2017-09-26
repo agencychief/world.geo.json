@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Yuma","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.426,40.44],[-102.054,40.44],[-102.054,40.347],[-102.054,40.002],[-102.049,39.574],[-102.426,39.569],[-102.804,39.569],[-102.782,40.44],[-102.667,40.44]]]]}}]}

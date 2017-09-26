@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Seneca","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.071,41.256],[-82.841,41.256],[-82.83,40.998],[-83.115,40.993],[-83.421,40.993],[-83.421,41.168],[-83.421,41.256]]]]}}]}

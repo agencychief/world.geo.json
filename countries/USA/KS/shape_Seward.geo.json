@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Seward","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.75,37.389],[-100.652,37.389],[-100.635,37],[-100.948,37],[-101.068,37],[-101.068,37.389]]]]}}]}

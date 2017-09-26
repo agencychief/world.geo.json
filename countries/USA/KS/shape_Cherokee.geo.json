@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cherokee","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.83,37.34],[-94.616,37.34],[-94.616,37.055],[-94.616,37.055],[-94.616,37],[-94.994,37],[-95.005,37],[-95.071,37],[-95.076,37.34]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Kenosha","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.028,42.669],[-87.808,42.669],[-87.803,42.494],[-88.203,42.494],[-88.219,42.494],[-88.307,42.494],[-88.307,42.609],[-88.186,42.609],[-88.186,42.669]]]]}}]}

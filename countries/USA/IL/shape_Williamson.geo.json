@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Williamson","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.728,37.866],[-88.707,37.866],[-88.707,37.597],[-88.876,37.597],[-89.041,37.597],[-89.156,37.603],[-89.15,37.86]]]]}}]}

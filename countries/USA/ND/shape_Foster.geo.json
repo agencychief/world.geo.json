@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"ND"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Foster","state":"ND"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.2,47.587],[-98.499,47.587],[-98.499,47.324],[-99.266,47.33],[-99.266,47.587]]]]}}]}

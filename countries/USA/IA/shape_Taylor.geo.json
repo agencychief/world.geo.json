@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Taylor","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.857,40.9],[-94.468,40.9],[-94.474,40.571],[-94.633,40.571],[-94.918,40.577],[-94.928,40.9]]]]}}]}

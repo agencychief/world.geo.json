@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Arroyo","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.059,18.039],[-66.021,17.979],[-66.07,17.968],[-66.081,18.034]]]]}}]}

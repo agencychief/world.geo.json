@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Maries","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.954,38.287],[-91.642,38.287],[-91.631,38.156],[-91.631,38.052],[-91.894,38.052],[-92.02,38.008],[-92.184,38.019],[-92.195,38.293]]]]}}]}

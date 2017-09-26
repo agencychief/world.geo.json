@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Oktibbeha","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.052,33.561],[-89.019,33.561],[-88.674,33.566],[-88.674,33.506],[-88.668,33.287],[-88.811,33.287],[-89.09,33.287],[-89.09,33.533],[-89.085,33.561]]]]}}]}

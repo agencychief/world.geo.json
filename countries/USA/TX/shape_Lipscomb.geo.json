@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lipscomb","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.006,36.502],[-100,36.058],[-100.542,36.058],[-100.548,36.058],[-100.548,36.502]]]]}}]}

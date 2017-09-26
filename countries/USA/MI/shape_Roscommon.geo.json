@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Roscommon","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.736,44.509],[-84.369,44.509],[-84.369,44.159],[-84.61,44.159],[-84.851,44.159],[-84.851,44.509]]]]}}]}

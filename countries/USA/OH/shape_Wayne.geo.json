@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Wayne","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.079,40.993],[-81.691,40.987],[-81.647,40.987],[-81.647,40.916],[-81.652,40.67],[-81.658,40.67],[-82.129,40.67],[-82.129,40.993]]]]}}]}

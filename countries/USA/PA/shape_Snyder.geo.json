@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Snyder","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.855,40.889],[-76.8,40.883],[-76.849,40.807],[-76.86,40.708],[-76.937,40.637],[-77.134,40.686],[-77.287,40.692],[-77.353,40.703],[-77.358,40.807]]]]}}]}

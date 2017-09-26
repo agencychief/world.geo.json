@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Kane","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.455,42.154],[-88.236,42.154],[-88.263,41.984],[-88.263,41.727],[-88.603,41.721],[-88.586,42.154]]]]}}]}

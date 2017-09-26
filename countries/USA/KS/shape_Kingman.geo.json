@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Kingman","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.919,37.734],[-97.809,37.734],[-97.809,37.477],[-97.809,37.384],[-98.352,37.384],[-98.466,37.384],[-98.466,37.471],[-98.466,37.734]]]]}}]}

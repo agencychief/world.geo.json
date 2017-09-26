@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Geauga","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.006,41.716],[-81.001,41.502],[-81.001,41.349],[-81.389,41.349],[-81.389,41.568],[-81.296,41.568],[-81.296,41.639],[-81.099,41.639],[-81.105,41.716]]]]}}]}

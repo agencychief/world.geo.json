@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Polk","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.63,37.827],[-93.576,37.827],[-93.187,37.805],[-93.181,37.416],[-93.619,37.428],[-93.614,37.575]]]]}}]}

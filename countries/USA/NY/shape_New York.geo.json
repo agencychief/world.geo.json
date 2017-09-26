@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"New York","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-73.924,40.878],[-73.913,40.796],[-73.963,40.736],[-74.023,40.681],[-74.023,40.708],[-73.985,40.796],[-73.935,40.883]]]]}}]}

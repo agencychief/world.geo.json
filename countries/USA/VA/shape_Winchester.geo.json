@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Winchester","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.163,39.197],[-78.136,39.186],[-78.185,39.131],[-78.202,39.18]]]]}}]}

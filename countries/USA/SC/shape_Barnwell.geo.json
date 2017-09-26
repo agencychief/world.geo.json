@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SC"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Barnwell","state":"SC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.373,33.489],[-81.225,33.44],[-81.225,33.161],[-81.192,33.117],[-81.368,33.106],[-81.543,33.161],[-81.614,33.095],[-81.745,33.139],[-81.756,33.199]]]]}}]}

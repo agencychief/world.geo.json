@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ford","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.132,40.998],[-88.121,40.489],[-87.934,40.484],[-87.934,40.401],[-88.11,40.401],[-88.46,40.401],[-88.46,40.615],[-88.236,40.62],[-88.247,40.993],[-88.132,40.998]]]]}}]}

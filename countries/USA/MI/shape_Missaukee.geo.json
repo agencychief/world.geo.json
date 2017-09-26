@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Missaukee","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.333,44.515],[-84.851,44.509],[-84.851,44.159],[-85.086,44.164],[-85.333,44.164]]]]}}]}

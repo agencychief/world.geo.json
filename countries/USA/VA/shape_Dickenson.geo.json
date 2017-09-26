@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Dickenson","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.315,37.296],[-82.249,37.274],[-82.151,37.044],[-82.326,36.973],[-82.364,36.956],[-82.479,37.022],[-82.545,37.132],[-82.556,37.203],[-82.315,37.296]]]]}}]}

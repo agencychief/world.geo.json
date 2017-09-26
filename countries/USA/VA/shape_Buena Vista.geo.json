@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Buena Vista","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.379,37.745],[-79.33,37.762],[-79.368,37.696]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Webster","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.291,40.352],[-98.28,40.352],[-98.275,40.352],[-98.275,40.002],[-98.505,40.002],[-98.691,40.002],[-98.724,40.002],[-98.729,40.352],[-98.724,40.352]]]]}}]}

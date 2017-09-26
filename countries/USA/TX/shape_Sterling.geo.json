@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Sterling","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.265,32.087],[-101.183,32.087],[-100.822,32.087],[-100.827,31.699],[-100.86,31.704],[-100.865,31.562],[-101.265,31.556],[-101.265,31.649]]]]}}]}

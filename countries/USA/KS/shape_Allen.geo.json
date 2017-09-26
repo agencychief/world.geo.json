@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Allen","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.465,38.041],[-95.076,38.035],[-95.087,37.734],[-95.399,37.734],[-95.525,37.734],[-95.52,38.041]]]]}}]}

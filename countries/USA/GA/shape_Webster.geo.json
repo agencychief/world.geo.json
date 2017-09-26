@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Webster","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.648,32.235],[-84.528,32.137],[-84.429,32.137],[-84.446,31.967],[-84.451,31.918],[-84.599,31.918],[-84.654,31.918]]]]}}]}

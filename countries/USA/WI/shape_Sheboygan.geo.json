@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Sheboygan","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.77,43.89],[-87.732,43.89],[-87.704,43.688],[-87.792,43.545],[-87.923,43.545],[-88.038,43.54],[-88.159,43.545],[-88.164,43.89],[-88.044,43.89]]]]}}]}

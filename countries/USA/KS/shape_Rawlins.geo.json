@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Rawlins","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.326,40.002],[-100.761,40.002],[-100.74,40.002],[-100.74,39.569],[-101.391,39.569],[-101.413,39.569],[-101.413,40.002]]]]}}]}

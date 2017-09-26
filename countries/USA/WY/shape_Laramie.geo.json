@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Laramie","state":"WY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-105.28,41.656],[-104.656,41.656],[-104.656,41.563],[-104.053,41.563],[-104.053,41.393],[-104.053,41.004],[-104.946,40.998],[-105.28,40.998]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Rock","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.255,42.806],[-99.233,42.088],[-99.66,42.088],[-99.677,42.729],[-99.54,42.718]]]]}}]}

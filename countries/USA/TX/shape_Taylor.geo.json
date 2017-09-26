@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Taylor","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.137,32.52],[-99.628,32.515],[-99.633,32.082],[-99.715,32.082],[-100.055,32.082],[-100.153,32.082],[-100.148,32.52]]]]}}]}

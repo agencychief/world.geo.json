@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hand","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.31,44.898],[-98.719,44.898],[-98.707,44.635],[-98.702,44.197],[-98.927,44.197],[-99.299,44.197]]]]}}]}

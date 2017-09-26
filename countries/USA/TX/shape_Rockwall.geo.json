@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Rockwall","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.44,32.98],[-96.298,32.98],[-96.298,32.843],[-96.298,32.816],[-96.517,32.816],[-96.517,32.98]]]]}}]}

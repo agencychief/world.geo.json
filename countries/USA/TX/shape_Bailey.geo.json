@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Bailey","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.613,34.311],[-102.618,33.824],[-103.001,33.824],[-103.045,33.824],[-103.045,34.3],[-103.045,34.311]]]]}}]}

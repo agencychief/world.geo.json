@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Fluvanna","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.306,38.008],[-78.065,37.904],[-78.158,37.751],[-78.163,37.751],[-78.24,37.69],[-78.426,37.74],[-78.492,37.794]]]]}}]}

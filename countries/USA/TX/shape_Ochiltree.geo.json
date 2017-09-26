@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ochiltree","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.805,36.502],[-100.548,36.502],[-100.548,36.058],[-100.948,36.058],[-101.085,36.058],[-101.085,36.502],[-100.953,36.502]]]]}}]}

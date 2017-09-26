@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Geneva","state":"AL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.486,31.2],[-85.486,30.997],[-85.497,30.997],[-86.034,30.992],[-86.187,30.992],[-86.193,31.195],[-85.793,31.195],[-85.711,31.195]]]]}}]}

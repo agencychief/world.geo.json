@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Sullivan","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.816,41.59],[-76.219,41.541],[-76.285,41.376],[-76.312,41.311],[-76.318,41.311],[-76.411,41.305],[-76.449,41.278],[-76.592,41.305],[-76.751,41.409]]]]}}]}

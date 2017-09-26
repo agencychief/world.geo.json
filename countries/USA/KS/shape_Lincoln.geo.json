@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lincoln","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.478,39.218],[-97.93,39.218],[-97.93,38.956],[-97.93,38.873],[-98.483,38.873],[-98.488,39.131],[-98.488,39.218]]]]}}]}

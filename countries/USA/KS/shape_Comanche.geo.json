@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Comanche","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.014,37.384],[-99.003,37],[-99.458,37],[-99.54,37],[-99.546,37.384]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Sanilac","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.698,43.688],[-82.605,43.693],[-82.501,43.167],[-82.567,43.167],[-82.994,43.156],[-83,43.282],[-83.12,43.282],[-83.12,43.326],[-83.12,43.677]]]]}}]}

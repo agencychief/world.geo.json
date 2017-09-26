@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Forsyth","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.259,34.333],[-83.958,34.333],[-83.925,34.284],[-83.947,34.24],[-84.062,34.169],[-84.112,34.097],[-84.095,34.048],[-84.254,34.103],[-84.259,34.185]]]]}}]}

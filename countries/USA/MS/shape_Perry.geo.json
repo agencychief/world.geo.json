@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Perry","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.145,31.436],[-88.942,31.436],[-88.844,31.436],[-88.833,30.997],[-88.833,30.91],[-88.887,30.91],[-88.997,30.91],[-89.139,30.91]]]]}}]}

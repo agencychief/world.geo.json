@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"ND"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cavalier","state":"ND"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.952,49],[-97.93,48.546],[-98.017,48.546],[-98.319,48.546],[-98.839,48.546],[-98.97,48.546],[-98.998,49]]]]}}]}

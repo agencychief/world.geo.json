@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Beaver","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.256,40.856],[-80.157,40.856],[-80.146,40.675],[-80.146,40.615],[-80.36,40.478],[-80.398,40.478],[-80.519,40.478],[-80.519,40.637],[-80.519,40.851]]]]}}]}

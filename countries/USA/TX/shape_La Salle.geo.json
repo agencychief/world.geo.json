@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"La Salle","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.801,28.648],[-98.801,28.637],[-98.801,28.056],[-99.387,28.029],[-99.392,28.204],[-99.398,28.642]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Delaware","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.89,36.672],[-94.616,36.666],[-94.616,36.502],[-94.561,36.162],[-94.77,36.162],[-94.797,36.162],[-95.011,36.162],[-95.005,36.507],[-95,36.672]]]]}}]}

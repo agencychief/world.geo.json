@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Aibonito","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.279,18.176],[-66.24,18.181],[-66.218,18.143],[-66.224,18.094],[-66.257,18.077],[-66.322,18.127],[-66.317,18.154]]]]}}]}

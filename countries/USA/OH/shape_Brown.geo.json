@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Brown","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.991,39.257],[-83.865,39.246],[-83.871,39.021],[-83.673,39.021],[-83.706,38.638],[-83.772,38.654],[-83.849,38.747],[-83.903,38.769],[-84.051,38.769]]]]}}]}

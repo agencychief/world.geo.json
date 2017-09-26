@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"York","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.366,41.048],[-97.366,40.697],[-97.798,40.697],[-97.826,40.697],[-97.826,40.697],[-97.826,41.048]]]]}}]}

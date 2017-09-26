@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"ND"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ransom","state":"ND"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.957,46.629],[-97.683,46.629],[-97.278,46.629],[-97.278,46.284],[-98.007,46.284],[-98.034,46.284],[-98.034,46.629]]]]}}]}

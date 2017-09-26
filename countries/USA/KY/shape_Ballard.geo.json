@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ballard","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.937,37.23],[-88.816,36.956],[-89.074,36.918],[-89.101,36.946],[-89.134,36.984],[-89.178,37.022],[-89.172,37.066],[-89.03,37.214]]]]}}]}

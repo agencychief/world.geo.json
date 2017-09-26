@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Bacon","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.523,31.709],[-82.227,31.529],[-82.342,31.43],[-82.419,31.419],[-82.474,31.419],[-82.496,31.469],[-82.6,31.469],[-82.627,31.671],[-82.523,31.671]]]]}}]}

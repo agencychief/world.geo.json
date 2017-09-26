@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Randolph","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.807,40.308],[-84.802,40.308],[-84.813,40.007],[-84.856,40.007],[-85.201,40.007],[-85.212,40.078],[-85.218,40.308]]]]}}]}

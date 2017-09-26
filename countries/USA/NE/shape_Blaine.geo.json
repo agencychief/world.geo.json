@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Blaine","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.268,42.088],[-100.17,42.088],[-99.688,42.088],[-99.688,41.738],[-100.252,41.738],[-100.263,41.738]]]]}}]}

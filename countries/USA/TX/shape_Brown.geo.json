@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Brown","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.118,32.082],[-98.927,32.077],[-98.669,31.699],[-98.762,31.688],[-98.779,31.611],[-98.992,31.485],[-99.091,31.463],[-99.2,31.469],[-99.195,32.082]]]]}}]}

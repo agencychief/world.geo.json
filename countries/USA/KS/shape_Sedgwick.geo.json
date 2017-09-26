@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Sedgwick","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.157,37.915],[-97.152,37.915],[-97.152,37.477],[-97.349,37.477],[-97.809,37.477],[-97.809,37.734],[-97.7,37.734],[-97.7,37.915]]]]}}]}

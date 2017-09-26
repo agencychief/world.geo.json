@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Jewell","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.269,40.002],[-97.93,40.002],[-97.93,39.657],[-97.93,39.569],[-98.488,39.569],[-98.505,39.569],[-98.505,40.002],[-98.275,40.002]]]]}}]}

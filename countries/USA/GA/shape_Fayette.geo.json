@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Fayette","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.451,33.55],[-84.38,33.462],[-84.385,33.353],[-84.435,33.254],[-84.495,33.26],[-84.615,33.402],[-84.61,33.501],[-84.457,33.55]]]]}}]}

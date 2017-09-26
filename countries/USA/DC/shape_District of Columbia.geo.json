@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"DC"},"features":[{"type":"Feature","properties":{"kind":"county","name":"District of Columbia","state":"DC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.035,38.994],[-77.002,38.967],[-76.909,38.895],[-77.041,38.791],[-77.046,38.84],[-77.041,38.873],[-77.117,38.934]]]]}}]}

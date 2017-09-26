@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Oldham","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.639,38.38],[-85.601,38.441],[-85.497,38.468],[-85.431,38.523],[-85.316,38.49],[-85.344,38.457],[-85.284,38.358],[-85.322,38.309],[-85.47,38.287]]]]}}]}

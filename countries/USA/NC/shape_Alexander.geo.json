@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Alexander","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-81.028,36.047],[-81.006,35.96],[-81.044,35.856],[-81.11,35.779],[-81.143,35.828],[-81.192,35.823],[-81.335,35.795],[-81.329,35.998]]]]}}]}

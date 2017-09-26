@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Denton","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.382,33.429],[-96.944,33.418],[-96.834,33.407],[-96.834,33.407],[-96.845,32.986],[-96.856,32.986],[-97.032,32.986],[-97.398,32.991]]]]}}]}

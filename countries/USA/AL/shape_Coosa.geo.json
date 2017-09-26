@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Coosa","state":"AL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.176,33.106],[-86.007,33.09],[-86.007,32.756],[-86.379,32.756],[-86.456,32.816],[-86.45,32.86],[-86.516,32.931],[-86.516,33.019],[-86.489,33.101]]]]}}]}

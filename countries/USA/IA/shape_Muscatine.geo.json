@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Muscatine","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.308,41.595],[-90.897,41.595],[-90.782,41.595],[-90.788,41.453],[-91.04,41.42],[-91.073,41.333],[-91.368,41.338],[-91.368,41.426],[-91.368,41.601]]]]}}]}

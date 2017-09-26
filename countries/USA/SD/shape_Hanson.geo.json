@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hanson","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.853,43.852],[-97.607,43.846],[-97.607,43.501],[-97.963,43.501],[-97.968,43.852]]]]}}]}

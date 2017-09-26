@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hoke","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.127,35.166],[-79.1,35.176],[-79.089,35.045],[-79.034,34.952],[-79.193,34.831],[-79.347,34.837],[-79.363,34.957],[-79.462,35.045],[-79.248,35.215]]]]}}]}

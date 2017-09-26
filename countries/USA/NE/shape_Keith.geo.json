@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Keith","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.364,41.393],[-101.271,41.393],[-101.249,41.004],[-101.879,41.004],[-102.054,41.004],[-102.054,41.223],[-102.054,41.393],[-101.983,41.393],[-101.408,41.393]]]]}}]}

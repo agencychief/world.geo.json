@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Union","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.552,35.209],[-80.508,35.187],[-80.442,35.16],[-80.278,35.198],[-80.321,34.815],[-80.562,34.815],[-80.798,34.82],[-80.781,34.935],[-80.842,35.001]]]]}}]}

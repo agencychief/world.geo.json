@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Loíza","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-65.829,18.422],[-65.868,18.379],[-65.868,18.412],[-65.912,18.401],[-65.917,18.401],[-65.994,18.461]]]]}}]}

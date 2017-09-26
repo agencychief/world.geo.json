@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Orange","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.308,38.687],[-86.308,38.424],[-86.308,38.391],[-86.68,38.397],[-86.68,38.528],[-86.686,38.687]]]]}}]}

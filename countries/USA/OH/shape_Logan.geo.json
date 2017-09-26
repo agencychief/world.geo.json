@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Logan","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.881,40.538],[-83.52,40.505],[-83.553,40.232],[-83.881,40.264],[-84.013,40.276],[-84.002,40.484],[-83.991,40.533]]]]}}]}

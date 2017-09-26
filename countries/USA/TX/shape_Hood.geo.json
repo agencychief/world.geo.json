@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hood","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.067,32.559],[-97.618,32.553],[-97.618,32.318],[-97.782,32.318],[-97.946,32.235],[-98.067,32.509]]]]}}]}

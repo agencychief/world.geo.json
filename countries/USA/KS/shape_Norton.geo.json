@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Norton","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.628,40.002],[-99.628,39.569],[-100.164,39.569],[-100.181,39.569],[-100.175,40.002],[-99.628,40.002]]]]}}]}

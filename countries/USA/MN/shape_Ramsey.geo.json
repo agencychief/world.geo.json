@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ramsey","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.231,45.123],[-93.022,45.123],[-92.984,45.101],[-92.984,44.892],[-93.017,44.892],[-93.088,44.92],[-93.176,44.887],[-93.225,45.035]]]]}}]}

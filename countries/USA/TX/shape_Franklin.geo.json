@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Franklin","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.306,33.38],[-95.126,33.391],[-95.126,33.035],[-95.153,33.013],[-95.175,32.964],[-95.306,32.964],[-95.306,33.374]]]]}}]}

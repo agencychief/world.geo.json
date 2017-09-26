@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"DeWitt","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.24,29.382],[-96.977,29.102],[-97.305,28.861],[-97.415,28.927],[-97.574,28.812],[-97.754,29.009],[-97.612,29.108]]]]}}]}

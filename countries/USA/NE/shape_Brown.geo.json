@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Brown","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.175,42.833],[-100.055,42.784],[-99.677,42.729],[-99.66,42.088],[-99.688,42.088],[-100.17,42.088],[-100.197,42.844]]]]}}]}

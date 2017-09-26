@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Harper","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100,37],[-99.54,37],[-99.458,37],[-99.293,36.819],[-99.293,36.595],[-99.606,36.595],[-100.006,36.595]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lane","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.581,38.698],[-100.246,38.698],[-100.246,38.26],[-100.685,38.265],[-100.69,38.698]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Kendall","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.263,41.727],[-88.263,41.727],[-88.252,41.464],[-88.279,41.464],[-88.597,41.459],[-88.603,41.634],[-88.603,41.721]]]]}}]}

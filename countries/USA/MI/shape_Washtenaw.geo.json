@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Washtenaw","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.553,42.433],[-83.542,42.083],[-83.772,42.083],[-84.133,42.072],[-84.133,42.422],[-83.662,42.433]]]]}}]}

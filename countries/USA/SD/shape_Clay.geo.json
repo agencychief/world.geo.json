@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Clay","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.807,43.085],[-96.807,42.702],[-96.96,42.718],[-96.971,42.757],[-97.015,42.762],[-97.163,42.8],[-97.157,43.085],[-96.922,43.085]]]]}}]}

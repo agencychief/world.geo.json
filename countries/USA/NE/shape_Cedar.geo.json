@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cedar","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.486,42.85],[-97.305,42.866],[-97.163,42.8],[-97.015,42.762],[-97.015,42.351],[-97.366,42.351],[-97.366,42.439],[-97.486,42.439]]]]}}]}

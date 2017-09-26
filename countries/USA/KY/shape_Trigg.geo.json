@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Trigg","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.732,37],[-87.66,36.967],[-87.693,36.639],[-87.852,36.633],[-87.852,36.666],[-88.071,36.677],[-88.11,36.748],[-88.159,36.869],[-87.88,36.962]]]]}}]}

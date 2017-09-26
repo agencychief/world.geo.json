@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"San Lorenzo","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-65.966,18.231],[-65.95,18.231],[-65.928,18.143],[-65.928,18.121],[-66.01,18.077],[-66.054,18.11],[-66.054,18.116],[-65.999,18.209]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Elbert","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-104.195,39.563],[-103.713,39.569],[-103.719,38.868],[-104.053,38.868],[-104.053,39.131],[-104.661,39.131],[-104.661,39.563]]]]}}]}

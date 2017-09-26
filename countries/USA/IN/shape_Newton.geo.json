@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Newton","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.277,41.212],[-87.266,40.736],[-87.326,40.736],[-87.524,40.736],[-87.524,41.009],[-87.529,41.168],[-87.392,41.163],[-87.277,41.218]]]]}}]}

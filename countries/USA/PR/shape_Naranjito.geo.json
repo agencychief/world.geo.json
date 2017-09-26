@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Naranjito","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.257,18.329],[-66.207,18.318],[-66.207,18.275],[-66.268,18.247],[-66.311,18.247],[-66.279,18.329]]]]}}]}

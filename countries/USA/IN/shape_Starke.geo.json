@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Starke","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.467,41.431],[-86.467,41.174],[-86.669,41.174],[-86.932,41.174],[-86.932,41.239],[-86.784,41.283],[-86.702,41.404],[-86.642,41.431],[-86.527,41.431]]]]}}]}

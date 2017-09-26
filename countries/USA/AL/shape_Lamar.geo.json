@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lamar","state":"AL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.208,34.059],[-87.989,34.054],[-87.989,34.021],[-87.951,34.021],[-87.951,33.922],[-87.945,33.522],[-88.274,33.533],[-88.247,33.747]]]]}}]}

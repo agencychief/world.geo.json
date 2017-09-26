@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Miami","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.221,40.199],[-84.024,40.182],[-84.035,40.04],[-84.051,39.881],[-84.155,39.887],[-84.155,39.925],[-84.424,39.919],[-84.435,40.199]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Todd","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.236,43.392],[-100.214,43.392],[-100.197,42.998],[-101.227,42.998],[-101.227,43.392]]]]}}]}

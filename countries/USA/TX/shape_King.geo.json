@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"King","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.995,33.835],[-99.989,33.396],[-100.197,33.396],[-100.515,33.396],[-100.52,33.835],[-100.049,33.835]]]]}}]}

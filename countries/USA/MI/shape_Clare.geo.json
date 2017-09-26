@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Clare","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.086,44.164],[-84.851,44.159],[-84.61,44.159],[-84.604,43.814],[-84.752,43.814],[-85.086,43.814]]]]}}]}

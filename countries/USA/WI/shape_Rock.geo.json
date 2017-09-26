@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Rock","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.052,42.85],[-89.013,42.85],[-88.778,42.844],[-88.778,42.494],[-88.942,42.494],[-89.364,42.499],[-89.369,42.844]]]]}}]}

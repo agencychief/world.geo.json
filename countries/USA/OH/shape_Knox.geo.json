@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Knox","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.222,40.566],[-82.178,40.571],[-82.184,40.456],[-82.195,40.237],[-82.753,40.276],[-82.742,40.347],[-82.649,40.347],[-82.622,40.549],[-82.337,40.555]]]]}}]}

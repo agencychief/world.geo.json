@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ottawa","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.994,37],[-94.616,37],[-94.616,36.765],[-94.616,36.666],[-94.89,36.672],[-95,36.672],[-94.994,36.951],[-95.038,36.973],[-95.005,37]]]]}}]}

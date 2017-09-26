@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"McDonough","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.897,40.637],[-90.788,40.637],[-90.443,40.626],[-90.448,40.276],[-90.908,40.286],[-90.903,40.637]]]]}}]}

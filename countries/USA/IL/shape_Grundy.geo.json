@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Grundy","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.279,41.464],[-88.252,41.464],[-88.247,41.201],[-88.252,41.113],[-88.411,41.108],[-88.586,41.108],[-88.597,41.459]]]]}}]}

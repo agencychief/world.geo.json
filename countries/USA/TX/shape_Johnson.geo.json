@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Johnson","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.552,32.553],[-97.086,32.547],[-97.086,32.268],[-97.114,32.257],[-97.475,32.175],[-97.525,32.137],[-97.618,32.203],[-97.618,32.318],[-97.618,32.553]]]]}}]}

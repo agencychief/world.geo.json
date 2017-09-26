@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hemphill","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100,36.058],[-100,35.883],[-100,35.62],[-100.542,35.62],[-100.542,36.058]]]]}}]}

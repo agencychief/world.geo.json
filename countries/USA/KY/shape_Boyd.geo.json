@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Boyd","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.594,38.424],[-82.573,38.265],[-82.605,38.249],[-82.633,38.265],[-82.791,38.243],[-82.77,38.364],[-82.819,38.375],[-82.666,38.506]]]]}}]}

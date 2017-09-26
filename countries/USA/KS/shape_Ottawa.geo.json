@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ottawa","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.59,39.306],[-97.371,39.306],[-97.371,39.131],[-97.371,38.956],[-97.486,38.956],[-97.93,38.956],[-97.93,39.218],[-97.93,39.306]]]]}}]}

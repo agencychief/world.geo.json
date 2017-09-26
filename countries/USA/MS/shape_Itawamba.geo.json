@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Itawamba","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.493,34.464],[-88.329,34.464],[-88.159,34.464],[-88.175,34.322],[-88.203,34.087],[-88.542,34.087],[-88.542,34.464]]]]}}]}

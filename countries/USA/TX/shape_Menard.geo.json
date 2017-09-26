@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Menard","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.115,31.091],[-99.606,31.085],[-99.606,30.943],[-99.485,30.943],[-99.485,30.713],[-99.759,30.713],[-100.115,30.713]]]]}}]}

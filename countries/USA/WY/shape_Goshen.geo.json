@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Goshen","state":"WY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-104.053,42.614],[-104.053,42.001],[-104.053,41.7],[-104.053,41.563],[-104.656,41.563],[-104.656,41.656],[-104.656,42.609]]]]}}]}

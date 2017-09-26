@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Macoupin","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.758,39.525],[-89.703,39.525],[-89.698,38.999],[-90.147,38.999],[-90.147,39.262],[-90.153,39.52],[-89.928,39.52]]]]}}]}

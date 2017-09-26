@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Dawes","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-103.325,43.003],[-103.001,43.003],[-102.793,42.998],[-102.771,42.439],[-103.445,42.439],[-103.478,42.439],[-103.505,43.003]]]]}}]}

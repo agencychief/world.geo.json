@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Price","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.3,45.982],[-90.043,45.982],[-90.043,45.895],[-90.043,45.555],[-90.043,45.38],[-90.169,45.38],[-90.678,45.38],[-90.678,45.637],[-90.678,45.982]]]]}}]}

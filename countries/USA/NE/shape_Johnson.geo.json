@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Johnson","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.068,40.522],[-96.068,40.264],[-96.325,40.264],[-96.462,40.264],[-96.462,40.522]]]]}}]}

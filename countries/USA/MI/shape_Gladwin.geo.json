@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Gladwin","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.248,44.164],[-84.166,44.164],[-84.166,43.994],[-84.166,43.825],[-84.369,43.83],[-84.604,43.814],[-84.61,44.159],[-84.369,44.159]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"DeKalb","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.917,41.53],[-84.807,41.53],[-84.802,41.426],[-84.802,41.272],[-84.845,41.272],[-85.19,41.267],[-85.196,41.524]]]]}}]}

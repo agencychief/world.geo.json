@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Covington","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.998,37.805],[-79.965,37.8],[-79.993,37.751]]]]}}]}

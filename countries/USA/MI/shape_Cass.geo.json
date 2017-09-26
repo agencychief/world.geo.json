@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cass","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.226,42.072],[-85.766,42.072],[-85.76,41.798],[-85.793,41.76],[-85.99,41.76],[-86.061,41.76],[-86.226,41.76]]]]}}]}

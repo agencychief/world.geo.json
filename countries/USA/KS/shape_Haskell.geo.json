@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Haskell","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.652,37.734],[-100.652,37.477],[-100.652,37.389],[-100.75,37.389],[-101.068,37.389],[-101.09,37.389],[-101.09,37.734]]]]}}]}

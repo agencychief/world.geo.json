@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Pendleton","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.232,38.83],[-84.205,38.583],[-84.402,38.561],[-84.478,38.545],[-84.533,38.791],[-84.418,38.808],[-84.232,38.873]]]]}}]}

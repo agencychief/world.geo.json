@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"UT"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Washington","state":"UT"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-114.054,37.603],[-113.473,37.619],[-113.473,37.532],[-113.254,37.532],[-113.254,37.482],[-112.898,37.499],[-112.898,37],[-114.048,37]]]]}}]}

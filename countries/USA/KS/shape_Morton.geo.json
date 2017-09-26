@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Morton","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.884,37.389],[-101.555,37.389],[-101.555,36.995],[-102.026,36.995],[-102.043,36.995],[-102.043,37.389]]]]}}]}

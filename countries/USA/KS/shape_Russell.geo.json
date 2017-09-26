@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Russell","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.51,39.131],[-98.488,39.131],[-98.483,38.873],[-98.488,38.698],[-98.812,38.698],[-99.031,38.698],[-99.042,38.698],[-99.036,39.131]]]]}}]}

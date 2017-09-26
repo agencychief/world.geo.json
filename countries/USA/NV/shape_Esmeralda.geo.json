@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NV"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Esmeralda","state":"NV"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-117.691,38.474],[-117.165,38.002],[-117.165,36.973],[-117.833,37.466],[-118.43,37.898],[-118.353,37.893]]]]}}]}

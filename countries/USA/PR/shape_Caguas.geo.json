@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Caguas","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.021,18.308],[-65.999,18.209],[-66.054,18.116],[-66.098,18.171],[-66.12,18.209],[-66.065,18.302],[-66.043,18.313]]]]}}]}

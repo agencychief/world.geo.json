@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"CO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Logan","state":"CO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.651,41.004],[-102.651,40.752],[-102.667,40.44],[-102.782,40.44],[-103.467,40.434],[-103.467,40.522],[-103.582,40.522],[-103.576,41.004],[-103.385,41.004]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lajas","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-67.067,18.067],[-66.985,18.05],[-66.958,18.034],[-66.98,17.951],[-67.062,17.973],[-67.111,17.946],[-67.111,18.055]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Fayette","state":"TN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.55,35.401],[-89.473,35.401],[-89.183,35.395],[-89.2,34.996],[-89.353,34.996],[-89.643,34.996],[-89.632,35.374]]]]}}]}

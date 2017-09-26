@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cimarron","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.043,36.995],[-102.026,36.995],[-102.032,36.502],[-102.163,36.502],[-103.001,36.502],[-103.001,37]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Mitchell","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.663,32.526],[-100.663,32.087],[-100.822,32.087],[-101.183,32.087],[-101.172,32.526],[-101.172,32.526]]]]}}]}

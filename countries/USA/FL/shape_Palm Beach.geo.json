@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Palm Beach","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.886,26.961],[-80.08,26.972],[-80.031,26.797],[-80.075,26.32],[-80.25,26.337],[-80.88,26.331]]]]}}]}

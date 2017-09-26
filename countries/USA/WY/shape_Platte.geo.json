@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Platte","state":"WY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-104.656,42.609],[-104.656,41.656],[-105.28,41.656],[-105.285,42.433],[-105.285,42.603],[-104.891,42.609]]]]}}]}

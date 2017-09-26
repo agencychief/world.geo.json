@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Boone","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.242,40.182],[-86.242,39.925],[-86.324,39.925],[-86.434,39.925],[-86.697,39.925],[-86.697,40.177]]]]}}]}

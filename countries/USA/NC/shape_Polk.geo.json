@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Polk","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-82.091,35.357],[-81.959,35.248],[-81.97,35.187],[-82.216,35.198],[-82.353,35.193],[-82.348,35.286],[-82.26,35.395],[-82.162,35.407]]]]}}]}

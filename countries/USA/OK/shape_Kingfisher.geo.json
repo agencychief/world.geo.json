@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Kingfisher","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.094,36.168],[-97.678,36.162],[-97.672,35.724],[-97.974,35.724],[-98.209,35.724],[-98.209,36.162],[-98.105,36.162]]]]}}]}

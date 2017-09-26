@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Menominee","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.975,45.117],[-88.641,45.117],[-88.482,45.117],[-88.487,44.854],[-88.734,44.854],[-88.734,44.942],[-88.981,44.942],[-88.981,45.029]]]]}}]}

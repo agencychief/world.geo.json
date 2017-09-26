@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Linn","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.011,38.391],[-94.611,38.391],[-94.616,38.063],[-94.616,38.035],[-94.934,38.035],[-95.076,38.035],[-95.065,38.391]]]]}}]}

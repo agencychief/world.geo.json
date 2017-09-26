@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Carroll","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.026,38.764],[-84.933,38.66],[-85.075,38.599],[-85.168,38.583],[-85.212,38.583],[-85.333,38.736],[-85.256,38.736],[-85.201,38.693]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Dickinson","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.093,43.501],[-94.918,43.501],[-94.912,43.255],[-95.169,43.255],[-95.388,43.255],[-95.388,43.501]]]]}}]}

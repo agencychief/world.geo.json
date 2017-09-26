@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Alexandria","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.085,38.846],[-77.046,38.84],[-77.041,38.791],[-77.041,38.786],[-77.139,38.802],[-77.112,38.846]]]]}}]}

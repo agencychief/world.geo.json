@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Antelope","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.837,42.439],[-97.837,42.088],[-97.831,41.919],[-97.913,41.919],[-98.297,41.913],[-98.302,42.088],[-98.302,42.439]]]]}}]}

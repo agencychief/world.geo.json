@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Monroe","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.492,44.159],[-90.311,44.153],[-90.311,43.731],[-90.908,43.726],[-90.914,44.071],[-90.974,44.071],[-90.98,44.131],[-90.908,44.159]]]]}}]}

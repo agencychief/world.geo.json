@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Owen","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.938,39.476],[-86.686,39.47],[-86.631,39.47],[-86.631,39.35],[-86.686,39.333],[-86.686,39.164],[-87.053,39.169],[-87.053,39.344],[-86.943,39.344]]]]}}]}

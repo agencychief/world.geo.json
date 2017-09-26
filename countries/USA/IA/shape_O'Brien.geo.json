@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"O'Brien","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.575,43.255],[-95.388,43.255],[-95.388,42.91],[-95.416,42.91],[-95.859,42.91],[-95.859,43.255]]]]}}]}

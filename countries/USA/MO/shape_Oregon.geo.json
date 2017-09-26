@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Oregon","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.659,36.891],[-91.221,36.885],[-91.226,36.825],[-91.117,36.825],[-91.127,36.496],[-91.407,36.496],[-91.451,36.496],[-91.451,36.496],[-91.67,36.502]]]]}}]}

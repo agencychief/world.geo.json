@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Chippewa","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-91.089,45.292],[-90.925,45.292],[-90.925,45.029],[-90.925,44.86],[-91.5,44.86],[-91.653,44.854],[-91.664,45.21],[-91.544,45.205],[-91.544,45.292]]]]}}]}

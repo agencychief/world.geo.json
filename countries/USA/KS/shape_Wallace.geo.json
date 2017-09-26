@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Wallace","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.479,39.136],[-101.484,38.698],[-101.567,38.698],[-102.043,38.698],[-102.049,39.049],[-102.049,39.131]]]]}}]}

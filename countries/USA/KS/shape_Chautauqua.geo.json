@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Chautauqua","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.522,37.301],[-95.964,37.301],[-95.964,37],[-96.002,37],[-96.528,37]]]]}}]}

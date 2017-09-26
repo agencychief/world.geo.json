@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"McCracken","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-88.926,37.225],[-88.564,37.082],[-88.482,37.022],[-88.482,36.94],[-88.723,36.946],[-88.811,36.946],[-88.816,36.956],[-88.937,37.23]]]]}}]}

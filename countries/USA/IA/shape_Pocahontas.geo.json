@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Pocahontas","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.441,42.91],[-94.441,42.647],[-94.441,42.559],[-94.616,42.559],[-94.912,42.559],[-94.912,42.91]]]]}}]}

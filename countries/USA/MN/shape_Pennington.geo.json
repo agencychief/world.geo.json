@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Pennington","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.5,48.173],[-95.591,48.173],[-95.58,48.02],[-95.58,47.932],[-95.712,47.938],[-95.712,47.965],[-95.838,47.965],[-96.484,47.965]]]]}}]}

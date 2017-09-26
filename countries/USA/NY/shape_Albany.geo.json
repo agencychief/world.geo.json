@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Albany","state":"NY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-73.809,42.778],[-73.727,42.822],[-73.678,42.784],[-73.76,42.609],[-73.782,42.466],[-74.253,42.406],[-74.237,42.576],[-74.171,42.669],[-74.182,42.729]]]]}}]}

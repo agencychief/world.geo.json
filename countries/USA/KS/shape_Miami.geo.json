@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Miami","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-94.967,38.736],[-94.611,38.736],[-94.611,38.479],[-94.611,38.391],[-95.011,38.391],[-95.065,38.391],[-95.054,38.736]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Pulaski","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.36,38.019],[-92.184,38.019],[-92.02,38.008],[-92.031,37.603],[-92.25,37.603],[-92.25,37.647],[-92.415,37.712],[-92.409,37.86],[-92.404,38.019]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Gates","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-76.915,36.551],[-76.542,36.551],[-76.493,36.513],[-76.455,36.376],[-76.559,36.354],[-76.696,36.294],[-76.778,36.359],[-76.942,36.414],[-76.915,36.546]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Natrona","state":"WY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-107.536,43.501],[-107.109,43.501],[-106.079,43.496],[-106.074,42.433],[-107.038,42.433],[-107.525,42.433],[-107.542,42.784],[-107.504,42.784],[-107.504,43.129]]]]}}]}

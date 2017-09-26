@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lunenburg","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.399,37.088],[-78.24,37.121],[-78.081,37.011],[-78.005,37.022],[-78.027,36.776],[-78.476,36.885],[-78.492,36.891],[-78.443,37.077]]]]}}]}

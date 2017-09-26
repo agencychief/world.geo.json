@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Falls","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.802,31.523],[-96.599,31.222],[-96.829,31.107],[-97.07,30.987],[-97.278,31.282]]]]}}]}

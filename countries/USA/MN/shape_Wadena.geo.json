@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Wadena","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.038,46.804],[-94.786,46.804],[-94.781,46.393],[-94.731,46.371],[-95.153,46.371],[-95.164,46.716],[-95.164,46.804]]]]}}]}

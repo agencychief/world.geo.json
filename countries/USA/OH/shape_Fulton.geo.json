@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Fulton","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.898,41.721],[-83.881,41.721],[-83.881,41.486],[-83.887,41.486],[-84.341,41.486],[-84.341,41.513],[-84.38,41.513],[-84.402,41.705],[-84.358,41.705]]]]}}]}

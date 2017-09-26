@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Luce","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.24,46.755],[-85.24,46.245],[-85.366,46.245],[-85.864,46.245],[-85.864,46.503],[-85.864,46.689],[-85.508,46.678]]]]}}]}

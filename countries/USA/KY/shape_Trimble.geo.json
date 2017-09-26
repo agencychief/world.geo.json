@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Trimble","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.426,38.589],[-85.453,38.709],[-85.333,38.736],[-85.212,38.583],[-85.168,38.583],[-85.316,38.49],[-85.431,38.523]]]]}}]}

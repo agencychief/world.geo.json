@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Carroll","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.687,42.198],[-89.687,41.929],[-89.89,41.929],[-90.153,41.929],[-90.153,42.034],[-90.169,42.121],[-90.317,42.192],[-89.917,42.198]]]]}}]}

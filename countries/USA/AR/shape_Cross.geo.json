@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"AR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cross","state":"AR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.744,35.445],[-90.503,35.439],[-90.503,35.144],[-90.832,35.149],[-91.045,35.149],[-91.04,35.352],[-91.04,35.445]]]]}}]}

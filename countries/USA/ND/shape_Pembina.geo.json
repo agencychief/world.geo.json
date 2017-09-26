@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"ND"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Pembina","state":"ND"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.229,49],[-97.18,48.819],[-97.097,48.683],[-97.163,48.546],[-97.163,48.54],[-97.93,48.546],[-97.952,49]]]]}}]}

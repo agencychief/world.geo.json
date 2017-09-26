@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Donley","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.969,35.182],[-100.537,35.182],[-100.542,34.749],[-100.948,34.749],[-101.09,34.749],[-101.085,35.182]]]]}}]}

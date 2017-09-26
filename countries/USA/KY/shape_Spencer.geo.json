@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Spencer","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.426,38.145],[-85.103,38.035],[-85.168,37.97],[-85.399,37.942],[-85.492,37.992],[-85.519,38.014],[-85.431,38.118]]]]}}]}

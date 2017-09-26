@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lawrence","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-87.535,38.852],[-87.496,38.742],[-87.529,38.682],[-87.622,38.638],[-87.65,38.567],[-87.912,38.572],[-87.907,38.852]]]]}}]}

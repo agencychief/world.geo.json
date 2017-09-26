@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Washburn","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-92.02,46.158],[-91.549,46.158],[-91.538,45.637],[-92.031,45.637],[-92.048,46.158]]]]}}]}

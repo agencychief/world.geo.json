@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ness","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.246,38.698],[-100.153,38.698],[-99.6,38.698],[-99.584,38.698],[-99.584,38.348],[-99.584,38.26],[-100.225,38.26],[-100.246,38.26]]]]}}]}

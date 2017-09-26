@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Osage","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.668,38.868],[-95.498,38.868],[-95.504,38.736],[-95.509,38.435],[-95.657,38.435],[-95.953,38.435],[-95.947,38.736],[-95.947,38.868]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ohio","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.933,39.01],[-84.878,39.032],[-84.829,38.972],[-84.873,38.901],[-85.141,38.901],[-85.136,38.928],[-85.13,38.95],[-85.097,38.934]]]]}}]}

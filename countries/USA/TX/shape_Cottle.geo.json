@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cottle","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.515,34.317],[-100.416,34.311],[-100,34.311],[-100,34.224],[-100.049,34.229],[-100.049,33.835],[-100.52,33.835]]]]}}]}

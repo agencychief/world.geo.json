@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Gage","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.478,40.522],[-96.462,40.522],[-96.462,40.264],[-96.462,40.002],[-96.692,40.002],[-96.807,40.002],[-96.917,40.002],[-96.917,40.352],[-96.911,40.522]]]]}}]}

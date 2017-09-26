@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lamar","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.04,33.205],[-84.046,32.947],[-84.122,32.931],[-84.122,32.991],[-84.27,32.991],[-84.248,33.188],[-84.122,33.177],[-84.122,33.205]]]]}}]}

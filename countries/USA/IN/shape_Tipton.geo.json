@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Tipton","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.864,40.407],[-85.864,40.38],[-85.864,40.221],[-85.875,40.221],[-86.242,40.215],[-86.242,40.374],[-86.242,40.401]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Dorado","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.196,18.466],[-66.257,18.455],[-66.251,18.395],[-66.306,18.384],[-66.317,18.477]]]]}}]}

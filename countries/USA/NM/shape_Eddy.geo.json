@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NM"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Eddy","state":"NM"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-104.102,32.964],[-103.812,32.964],[-103.812,32.52],[-103.724,32.52],[-103.724,32],[-103.982,32],[-104.026,32],[-104.847,32],[-104.853,32.52],[-104.842,32.964]]]]}}]}

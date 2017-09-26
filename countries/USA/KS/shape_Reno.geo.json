@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Reno","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.93,38.172],[-97.924,38.172],[-97.7,38.172],[-97.7,37.915],[-97.7,37.734],[-97.809,37.734],[-97.919,37.734],[-98.466,37.734],[-98.472,37.827],[-98.472,38.172]]]]}}]}

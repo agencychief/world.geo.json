@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Iowa","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.295,43.206],[-90.196,43.162],[-90.059,43.145],[-89.999,43.195],[-89.84,43.206],[-89.84,42.855],[-89.84,42.811],[-90.306,42.817],[-90.426,42.811],[-90.432,43.2]]]]}}]}

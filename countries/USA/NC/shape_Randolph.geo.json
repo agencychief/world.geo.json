@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Randolph","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.037,35.921],[-79.544,35.899],[-79.544,35.845],[-79.555,35.516],[-79.768,35.511],[-80.064,35.505],[-80.048,35.921]]]]}}]}

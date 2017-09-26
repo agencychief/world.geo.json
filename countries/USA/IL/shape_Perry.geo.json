@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Perry","state":"IL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.594,38.222],[-89.145,38.211],[-89.128,38.123],[-89.117,38.063],[-89.178,37.948],[-89.567,37.953],[-89.594,37.953]]]]}}]}

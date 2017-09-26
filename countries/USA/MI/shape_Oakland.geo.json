@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Oakland","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.098,42.888],[-83.082,42.45],[-83.553,42.433],[-83.662,42.433],[-83.684,42.784],[-83.69,42.871],[-83.454,42.883]]]]}}]}

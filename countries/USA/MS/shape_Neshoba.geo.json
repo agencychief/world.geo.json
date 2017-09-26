@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Neshoba","state":"MS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-89.156,32.931],[-88.915,32.925],[-88.915,32.575],[-89.134,32.575],[-89.32,32.575],[-89.32,32.931]]]]}}]}

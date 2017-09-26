@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Bon Homme","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.754,43.167],[-97.639,43.167],[-97.634,42.85],[-97.859,42.866],[-97.935,42.778],[-98.012,42.762],[-98.154,42.839],[-98.116,42.877],[-98.078,43.167]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Medina","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.806,29.689],[-98.806,29.25],[-98.806,29.092],[-98.905,29.092],[-99.414,29.092],[-99.414,29.628],[-98.981,29.623],[-98.97,29.552],[-98.927,29.563]]]]}}]}

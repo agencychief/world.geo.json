@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Harper","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.804,37.389],[-97.804,37],[-98.111,37],[-98.346,37],[-98.352,37.384],[-97.809,37.384]]]]}}]}

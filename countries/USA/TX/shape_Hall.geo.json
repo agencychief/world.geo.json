@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Hall","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.948,34.749],[-100.542,34.749],[-100.416,34.749],[-100.416,34.311],[-100.515,34.317],[-100.674,34.311],[-100.948,34.311]]]]}}]}

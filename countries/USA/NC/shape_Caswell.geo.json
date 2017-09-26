@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Caswell","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.138,36.54],[-79.155,36.244],[-79.248,36.244],[-79.259,36.244],[-79.533,36.25],[-79.511,36.54],[-79.472,36.54],[-79.341,36.54],[-79.221,36.54]]]]}}]}

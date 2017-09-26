@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Greene","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-78.459,38.468],[-78.454,38.474],[-78.426,38.364],[-78.35,38.276],[-78.29,38.271],[-78.372,38.183],[-78.662,38.276],[-78.552,38.337],[-78.487,38.419]]]]}}]}

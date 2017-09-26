@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"SD"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Buffalo","state":"SD"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.927,44.197],[-98.927,43.934],[-99.354,43.934],[-99.354,43.994],[-99.556,44.093],[-99.54,44.159],[-99.578,44.191],[-99.299,44.197]]]]}}]}

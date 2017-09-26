@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Danville","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-79.401,36.639],[-79.303,36.584],[-79.341,36.54],[-79.472,36.54],[-79.456,36.578],[-79.516,36.606],[-79.429,36.6]]]]}}]}

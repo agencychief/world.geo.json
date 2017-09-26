@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Clark","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-100.055,37.471],[-99.556,37.466],[-99.546,37.384],[-99.54,37],[-100,37],[-100.088,37],[-100.11,37.477]]]]}}]}

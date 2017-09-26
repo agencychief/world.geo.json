@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Bastrop","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.333,30.401],[-97.081,30.258],[-97.026,30.05],[-97.316,29.787],[-97.65,30.072],[-97.492,30.209],[-97.371,30.417]]]]}}]}

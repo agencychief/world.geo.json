@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KY"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Robertson","state":"KY"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.969,38.583],[-83.931,38.49],[-83.98,38.441],[-84.002,38.441],[-84.1,38.457],[-84.183,38.495],[-84.161,38.556],[-84.084,38.611],[-83.991,38.594]]]]}}]}

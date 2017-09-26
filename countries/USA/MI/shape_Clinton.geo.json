@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Clinton","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-84.719,43.118],[-84.369,43.118],[-84.363,42.778],[-84.604,42.767],[-84.834,42.773],[-84.834,43.118]]]]}}]}

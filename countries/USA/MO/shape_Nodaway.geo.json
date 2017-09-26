@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Nodaway","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.164,40.577],[-94.918,40.577],[-94.633,40.571],[-94.6,40.385],[-94.605,40.128],[-95.043,40.128],[-95.071,40.259],[-95.18,40.264],[-95.202,40.577]]]]}}]}

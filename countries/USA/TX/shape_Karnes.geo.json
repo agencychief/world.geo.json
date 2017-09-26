@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Karnes","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.727,29.223],[-97.612,29.108],[-97.754,29.009],[-97.574,28.812],[-97.776,28.67],[-97.935,28.714],[-98.007,28.692],[-98.1,28.785],[-98.193,28.883]]]]}}]}

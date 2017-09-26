@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Douglas","state":"MN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.394,46.108],[-95.147,46.108],[-95.142,45.774],[-95.142,45.758],[-95.427,45.758],[-95.761,45.758],[-95.772,46.108]]]]}}]}

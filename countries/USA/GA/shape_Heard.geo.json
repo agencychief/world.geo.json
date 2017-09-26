@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"GA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Heard","state":"GA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.015,33.424],[-84.939,33.227],[-84.939,33.227],[-85.086,33.172],[-85.108,33.194],[-85.119,33.161],[-85.234,33.128],[-85.294,33.429]]]]}}]}

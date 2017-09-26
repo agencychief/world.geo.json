@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Valley","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.075,41.738],[-98.757,41.738],[-98.751,41.738],[-98.751,41.393],[-98.823,41.393],[-99.206,41.393],[-99.211,41.743]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Floyd","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-101.473,34.311],[-101.041,34.311],[-101.041,33.835],[-101.561,33.829],[-101.567,34.311]]]]}}]}

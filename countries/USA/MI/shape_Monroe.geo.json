@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Monroe","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.421,42.094],[-83.295,42.094],[-83.186,42.034],[-83.438,41.815],[-83.421,41.743],[-83.454,41.732],[-83.761,41.721],[-83.772,42.083],[-83.542,42.083]]]]}}]}

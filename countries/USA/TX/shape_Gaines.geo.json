@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Gaines","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-103.067,32.958],[-102.596,32.958],[-102.207,32.958],[-102.202,32.526],[-102.213,32.526],[-102.996,32.526],[-103.067,32.52]]]]}}]}

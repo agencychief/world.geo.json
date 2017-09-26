@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Clay","state":"IA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.169,43.255],[-94.912,43.255],[-94.912,42.91],[-95.252,42.91],[-95.388,42.91],[-95.388,43.255]]]]}}]}

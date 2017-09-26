@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Mercer","state":"PA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.004,41.491],[-79.998,41.491],[-79.998,41.174],[-80.097,41.07],[-80.146,41.113],[-80.519,41.124],[-80.519,41.135],[-80.519,41.491]]]]}}]}

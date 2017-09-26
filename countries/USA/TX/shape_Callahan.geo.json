@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Callahan","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.195,32.515],[-99.113,32.515],[-99.118,32.082],[-99.195,32.082],[-99.633,32.082],[-99.628,32.515],[-99.611,32.515]]]]}}]}

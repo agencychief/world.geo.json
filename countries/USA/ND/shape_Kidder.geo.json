@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"ND"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Kidder","state":"ND"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.863,47.33],[-99.48,47.33],[-99.452,46.634],[-99.918,46.634],[-100.082,46.634],[-100.077,46.979],[-100.115,46.979],[-100.115,47.33],[-100.033,47.33]]]]}}]}

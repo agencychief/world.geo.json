@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Marshall","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-96.692,40.002],[-96.462,40.002],[-96.237,40.002],[-96.237,39.569],[-96.582,39.569],[-96.582,39.569],[-96.692,39.569],[-96.807,39.569],[-96.807,40.002]]]]}}]}

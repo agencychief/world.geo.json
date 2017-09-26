@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Pettis","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-93.499,38.945],[-93.05,38.928],[-93.061,38.693],[-93.066,38.528],[-93.159,38.534],[-93.515,38.512],[-93.51,38.556],[-93.499,38.928]]]]}}]}

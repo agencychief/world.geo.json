@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Vega Alta","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.317,18.477],[-66.306,18.384],[-66.317,18.368],[-66.366,18.335],[-66.377,18.346],[-66.35,18.488]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"FL"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Holmes","state":"FL"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.034,30.992],[-85.497,30.997],[-85.601,30.833],[-85.618,30.746],[-85.738,30.746],[-85.755,30.789],[-85.82,30.789],[-85.842,30.702],[-86.039,30.707]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Lawrence","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-86.68,38.994],[-86.319,38.988],[-86.28,38.988],[-86.275,38.764],[-86.308,38.687],[-86.686,38.687],[-86.68,38.906]]]]}}]}

@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Vieques","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-65.441,18.154],[-65.276,18.132],[-65.451,18.088],[-65.578,18.105]]]]}}]}

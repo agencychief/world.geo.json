@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Saline","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.486,38.956],[-97.371,38.956],[-97.371,38.611],[-97.924,38.611],[-97.93,38.873],[-97.93,38.956]]]]}}]}

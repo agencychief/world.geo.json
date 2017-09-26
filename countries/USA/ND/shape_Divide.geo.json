@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"ND"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Divide","state":"ND"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-102.941,49],[-102.941,48.721],[-102.886,48.721],[-102.886,48.633],[-104.047,48.633],[-104.047,49]]]]}}]}

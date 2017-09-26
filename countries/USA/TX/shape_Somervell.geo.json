@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Somervell","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.946,32.235],[-97.782,32.318],[-97.618,32.318],[-97.618,32.203],[-97.629,32.208],[-97.864,32.087]]]]}}]}

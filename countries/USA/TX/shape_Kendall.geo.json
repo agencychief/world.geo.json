@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"TX"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Kendall","state":"TX"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.921,30.138],[-98.587,30.138],[-98.412,29.935],[-98.647,29.743],[-98.779,29.721],[-98.916,29.782]]]]}}]}

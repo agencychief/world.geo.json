@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"IN"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Blackford","state":"IN"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-85.223,40.566],[-85.201,40.566],[-85.218,40.38],[-85.442,40.38],[-85.448,40.566]]]]}}]}

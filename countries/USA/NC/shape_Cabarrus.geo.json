@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NC"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Cabarrus","state":"NC"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-80.738,35.505],[-80.294,35.505],[-80.508,35.187],[-80.552,35.209],[-80.666,35.27],[-80.694,35.346],[-80.765,35.401],[-80.781,35.505]]]]}}]}

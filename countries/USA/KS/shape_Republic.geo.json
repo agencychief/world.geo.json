@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Republic","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.875,40.002],[-97.82,40.002],[-97.371,40.002],[-97.371,39.657],[-97.7,39.657],[-97.93,39.657],[-97.93,40.002]]]]}}]}

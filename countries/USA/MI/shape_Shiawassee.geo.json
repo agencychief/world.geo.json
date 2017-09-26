@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Shiawassee","state":"MI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.942,43.134],[-83.931,43.134],[-83.925,42.778],[-84.161,42.778],[-84.27,42.778],[-84.363,42.778],[-84.369,43.118],[-84.369,43.129]]]]}}]}

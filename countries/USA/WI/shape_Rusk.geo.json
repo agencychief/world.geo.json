@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"WI"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Rusk","state":"WI"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.678,45.637],[-90.678,45.38],[-90.925,45.38],[-90.925,45.292],[-91.089,45.292],[-91.544,45.292],[-91.538,45.637]]]]}}]}

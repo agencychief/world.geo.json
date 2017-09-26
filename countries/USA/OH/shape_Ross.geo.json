@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OH"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Ross","state":"OH"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-83.268,39.514],[-82.742,39.47],[-82.748,39.366],[-82.764,39.208],[-82.786,39.169],[-83.356,39.197],[-83.345,39.251],[-83.394,39.268],[-83.372,39.377]]]]}}]}

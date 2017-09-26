@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Furnas","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-99.989,40.352],[-99.644,40.352],[-99.633,40.352],[-99.628,40.002],[-100.175,40.002],[-100.192,40.002],[-100.197,40.352],[-100.093,40.352]]]]}}]}

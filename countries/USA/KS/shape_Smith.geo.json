@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"KS"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Smith","state":"KS"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-98.691,40.002],[-98.505,40.002],[-98.505,39.569],[-98.85,39.569],[-99.042,39.569],[-99.064,39.569],[-99.069,40.002],[-98.724,40.002]]]]}}]}

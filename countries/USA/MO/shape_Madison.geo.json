@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"MO"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Madison","state":"MO"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-90.536,37.641],[-90.147,37.641],[-90.147,37.597],[-90.147,37.312],[-90.218,37.312],[-90.552,37.318]]]]}}]}

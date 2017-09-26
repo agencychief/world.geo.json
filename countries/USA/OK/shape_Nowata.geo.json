@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"OK"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Nowata","state":"OK"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-95.613,37],[-95.52,37],[-95.41,37],[-95.41,36.94],[-95.432,36.946],[-95.432,36.595],[-95.81,36.595],[-95.788,37]]]]}}]}

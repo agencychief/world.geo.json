@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"PR"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Guaynabo","state":"PR"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-66.131,18.422],[-66.109,18.439],[-66.081,18.297],[-66.142,18.28],[-66.131,18.422]]]]}}]}

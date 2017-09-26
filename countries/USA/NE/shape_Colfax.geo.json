@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"NE"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Colfax","state":"NE"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-97.251,41.743],[-97.021,41.743],[-96.906,41.743],[-96.906,41.453],[-97.097,41.387],[-97.256,41.376],[-97.251,41.743]]]]}}]}

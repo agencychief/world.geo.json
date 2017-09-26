@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","properties":{"kind":"state","state":"VA"},"features":[{"type":"Feature","properties":{"kind":"county","name":"Manassas","state":"VA"},"geometry":{"type":"MultiPolygon","coordinates":[[[[-77.473,38.78],[-77.457,38.775],[-77.451,38.736],[-77.523,38.72]]]]}}]}
